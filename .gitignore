@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node
+node_modules/
+TrafficIQ/frontend/node_modules/
+TrafficIQ/frontend/dist/
+.DS_Store

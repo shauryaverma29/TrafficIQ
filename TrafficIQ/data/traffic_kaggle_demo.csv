@@ -1,0 +1,1206 @@
+segment_id,road_name,road_type,hour_of_day,day_of_week,traffic_volume,average_speed_kmh,congestion_index,occupancy_percent,weather_condition,incident_flag
+SEG-1000,Uptown Commercial Ave,Collector,19,Friday,2225.0,18.8,56.0,64.2,Clear,0
+SEG-1001,Central Metro Arterial,Arterial,21,Friday,1435.0,40.6,18.9,28.7,Rain,0
+SEG-1002,Tech Innovation Blvd,Arterial,16,Wednesday,2519.0,12.0,80.4,81.9,Clear,1
+SEG-1003,Central Metro Arterial,Arterial,4,Wednesday,397.0,50.3,2.0,6.2,Overcast,0
+SEG-1004,Highway 101 Bay Corridor,Highway,19,Thursday,4642.0,15.4,79.7,76.4,Clear,1
+SEG-1005,Uptown Commercial Ave,Collector,17,Tuesday,2434.0,22.4,57.5,73.6,Clear,0
+SEG-1006,Airport Transit Link,Expressway,15,Friday,2295.0,64.1,31.9,38.6,Clear,0
+SEG-1007,Central Metro Arterial,Arterial,2,Monday,581.0,47.6,5.4,13.3,Clear,0
+SEG-1008,Airport Transit Link,Expressway,2,Thursday,743.0,77.7,10.7,11.6,Clear,0
+SEG-1009,Uptown Commercial Ave,Collector,13,Sunday,1148.0,35.0,17.3,25.7,Clear,0
+SEG-1010,Airport Transit Link,Expressway,3,Saturday,931.0,82.9,7.9,14.1,Clear,0
+SEG-1011,Harbor Industrial Parkway,Collector,20,Saturday,1085.0,44.6,9.5,25.5,Clear,0
+SEG-1012,Harbor Industrial Parkway,Collector,0,Monday,207.0,43.2,2.0,4.0,Clear,0
+SEG-1013,Tech Innovation Blvd,Arterial,23,Sunday,1489.0,51.5,12.8,25.5,Clear,0
+SEG-1014,Uptown Commercial Ave,Collector,1,Wednesday,300.0,44.6,2.0,6.3,Clear,0
+SEG-1015,Highway 101 Bay Corridor,Highway,20,Thursday,2598.0,87.6,17.1,31.1,Clear,0
+SEG-1016,Airport Transit Link,Expressway,19,Tuesday,3110.0,51.5,47.4,58.8,Clear,0
+SEG-1017,Central Metro Arterial,Arterial,3,Wednesday,596.0,39.4,16.0,11.1,Overcast,0
+SEG-1018,Interstate 80 Express,Highway,17,Sunday,1694.0,95.4,13.8,24.8,Clear,0
+SEG-1019,Uptown Commercial Ave,Collector,8,Monday,2555.0,18.8,65.0,76.1,Clear,0
+SEG-1020,Central Metro Arterial,Arterial,15,Saturday,1881.0,35.5,31.4,35.8,Rain,0
+SEG-1021,Tech Innovation Blvd,Arterial,0,Thursday,772.0,53.4,11.6,16.4,Clear,0
+SEG-1022,Tech Innovation Blvd,Arterial,18,Saturday,1957.0,41.0,36.2,43.2,Clear,0
+SEG-1023,Tech Innovation Blvd,Arterial,14,Monday,1702.0,51.5,19.1,31.3,Clear,0
+SEG-1024,Airport Transit Link,Expressway,2,Thursday,598.0,73.4,8.5,13.3,Rain,0
+SEG-1025,Uptown Commercial Ave,Collector,21,Tuesday,959.0,36.5,10.4,23.7,Rain,0
+SEG-1026,Highway 101 Bay Corridor,Highway,16,Monday,4536.0,46.8,57.1,63.8,Clear,0
+SEG-1027,Uptown Commercial Ave,Collector,3,Friday,427.0,34.6,8.3,14.4,Clear,0
+SEG-1028,Central Metro Arterial,Arterial,21,Tuesday,1402.0,35.7,27.0,29.9,Rain,0
+SEG-1029,Tech Innovation Blvd,Arterial,11,Thursday,1847.0,58.5,16.8,37.7,Clear,0
+SEG-1030,Airport Transit Link,Expressway,17,Thursday,3665.0,22.5,73.0,76.8,Overcast,1
+SEG-1031,Tech Innovation Blvd,Arterial,20,Monday,1572.0,53.4,14.9,26.0,Clear,0
+SEG-1032,Sunset Suburban Ring,Local,6,Sunday,325.0,40.8,5.7,14.9,Clear,0
+SEG-1033,Tech Innovation Blvd,Arterial,4,Sunday,527.0,51.8,2.0,4.0,Clear,0
+SEG-1034,Interstate 80 Express,Highway,4,Sunday,1012.0,97.6,9.6,18.1,Clear,0
+SEG-1035,Sunset Suburban Ring,Local,23,Sunday,693.0,38.8,21.2,35.3,Rain,0
+SEG-1036,Airport Transit Link,Expressway,18,Wednesday,3973.0,36.7,67.2,74.8,Rain,0
+SEG-1037,Tech Innovation Blvd,Arterial,20,Tuesday,1614.0,55.1,13.2,31.4,Clear,0
+SEG-1038,Sunset Suburban Ring,Local,2,Monday,295.0,40.8,5.6,10.5,Overcast,0
+SEG-1039,Uptown Commercial Ave,Collector,12,Sunday,1858.0,30.7,33.9,46.5,Overcast,0
+SEG-1040,Tech Innovation Blvd,Arterial,8,Wednesday,3118.0,,59.3,71.2,Clear,0
+SEG-1041,Interstate 80 Express,Highway,19,Wednesday,4421.0,40.2,71.6,81.1,Clear,0
+SEG-1042,Interstate 80 Express,Highway,5,Sunday,528.0,95.3,5.6,9.6,Clear,0
+SEG-1043,Harbor Industrial Parkway,Collector,19,Monday,2174.0,13.4,72.8,71.0,Rain,0
+SEG-1044,Highway 101 Bay Corridor,Highway,18,Sunday,2604.0,91.7,17.3,31.0,Clear,0
+SEG-1045,Uptown Commercial Ave,Collector,0,Wednesday,494.0,34.6,8.2,11.7,Clear,0
+SEG-1046,Airport Transit Link,Expressway,3,Wednesday,447.0,76.6,6.0,10.0,Overcast,0
+SEG-1047,Central Metro Arterial,Arterial,11,Tuesday,1838.0,38.8,26.2,33.9,Rain,0
+SEG-1048,Highway 101 Bay Corridor,Highway,4,Monday,505.0,84.4,6.4,4.0,Clear,0
+SEG-1049,Airport Transit Link,Expressway,13,Wednesday,2380.0,67.2,30.0,42.4,Overcast,0
+SEG-1050,Interstate 80 Express,Highway,17,Sunday,2031.0,99.3,9.2,22.7,Clear,0
+SEG-1051,Sunset Suburban Ring,Local,22,Saturday,669.0,42.8,17.6,34.8,Overcast,0
+SEG-1052,Central Metro Arterial,Arterial,16,Friday,3311.0,12.0,78.1,81.7,Clear,1
+SEG-1053,Highway 101 Bay Corridor,Highway,1,Saturday,1403.0,96.1,7.3,15.2,Overcast,0
+SEG-1054,Sunset Suburban Ring,Local,14,Sunday,693.0,34.7,24.4,39.9,Overcast,0
+SEG-1055,Harbor Industrial Parkway,Collector,14,Wednesday,1523.0,35.6,33.1,46.8,Clear,0
+SEG-1056,Airport Transit Link,Expressway,3,Tuesday,628.0,70.3,9.7,8.0,Rain,0
+SEG-1057,Central Metro Arterial,Arterial,10,Wednesday,1663.0,49.7,14.0,29.5,Clear,0
+SEG-1058,Central Metro Arterial,Arterial,17,Friday,2706.0,15.0,65.8,64.0,Clear,1
+SEG-1059,Highway 101 Bay Corridor,Highway,16,Saturday,2299.0,89.3,13.0,22.9,Clear,0
+SEG-1060,Sunset Suburban Ring,Local,16,Tuesday,1087.0,12.0,79.8,82.0,Rain,1
+SEG-1061,Highway 101 Bay Corridor,Highway,12,Tuesday,3222.0,77.2,27.8,42.3,Clear,0
+SEG-1062,Central Metro Arterial,Arterial,18,Sunday,1611.0,48.8,12.3,27.0,Clear,0
+SEG-1063,Interstate 80 Express,Highway,16,Friday,4107.0,49.0,64.0,74.8,Clear,0
+SEG-1064,Interstate 80 Express,Highway,11,Wednesday,2745.0,,30.4,43.5,Clear,0
+SEG-1065,Airport Transit Link,Expressway,21,Friday,1610.0,77.0,12.8,23.2,Clear,0
+SEG-1066,Sunset Suburban Ring,Local,4,Thursday,222.0,34.4,17.9,19.1,Fog,0
+SEG-1067,Highway 101 Bay Corridor,Highway,14,Wednesday,3206.0,71.7,30.0,37.8,Clear,0
+SEG-1068,Uptown Commercial Ave,Collector,0,Tuesday,433.0,37.7,3.3,5.4,Overcast,0
+SEG-1069,Sunset Suburban Ring,Local,9,Friday,932.0,21.8,59.0,64.8,Clear,0
+SEG-1070,Sunset Suburban Ring,Local,5,Sunday,201.0,45.3,2.0,8.5,Overcast,0
+SEG-1071,Interstate 80 Express,Highway,7,Saturday,2566.0,76.0,29.7,40.2,Clear,0
+SEG-1072,Harbor Industrial Parkway,Collector,3,Monday,280.0,33.4,12.0,6.3,Rain,0
+SEG-1073,Uptown Commercial Ave,Collector,14,Monday,1555.0,29.4,31.5,38.2,Clear,0
+SEG-1074,Sunset Suburban Ring,Local,19,Sunday,747.0,38.7,23.8,39.2,Rain,0
+SEG-1075,Tech Innovation Blvd,Arterial,21,Tuesday,1577.0,50.4,15.8,28.2,Overcast,0
+SEG-1076,Tech Innovation Blvd,Arterial,12,Tuesday,1952.0,45.8,30.1,43.8,Clear,0
+SEG-1077,Harbor Industrial Parkway,Collector,7,Sunday,1011.0,51.3,3.4,24.1,Clear,0
+SEG-1078,Tech Innovation Blvd,Arterial,10,Thursday,1927.0,50.8,21.4,38.8,Clear,0
+SEG-1079,Highway 101 Bay Corridor,Highway,13,Thursday,3677.0,77.4,31.1,46.7,Clear,0
+SEG-1080,Tech Innovation Blvd,Arterial,20,Tuesday,1527.0,54.2,13.8,31.5,Clear,0
+SEG-1081,Interstate 80 Express,Highway,10,Wednesday,1984.0,94.8,15.5,25.5,Clear,0
+SEG-1082,Uptown Commercial Ave,Collector,10,Saturday,1507.0,30.9,31.0,40.7,Clear,0
+SEG-1083,Sunset Suburban Ring,Local,16,Sunday,673.0,27.9,38.5,49.3,Clear,1
+SEG-1084,Highway 101 Bay Corridor,Highway,0,Saturday,866.0,77.5,11.6,8.9,Overcast,0
+SEG-1085,Sunset Suburban Ring,Local,22,Sunday,858.0,30.6,35.6,53.4,Overcast,0
+SEG-1086,Central Metro Arterial,Arterial,23,Sunday,1346.0,31.4,34.2,34.8,Overcast,1
+SEG-1087,Sunset Suburban Ring,Local,23,Saturday,502.0,32.3,27.7,31.8,Clear,0
+SEG-1088,Airport Transit Link,Expressway,18,Friday,3804.0,38.3,65.7,72.8,Rain,0
+SEG-1089,Uptown Commercial Ave,Collector,11,Thursday,1320.0,25.4,34.3,36.9,Clear,0
+SEG-1090,Highway 101 Bay Corridor,Highway,23,Wednesday,2694.0,81.6,21.5,33.0,Rain,0
+SEG-1091,Central Metro Arterial,Arterial,13,Thursday,2283.0,41.3,33.3,44.2,Clear,0
+SEG-1092,Highway 101 Bay Corridor,Highway,16,Friday,4374.0,49.0,52.5,62.8,Overcast,0
+SEG-1093,Highway 101 Bay Corridor,Highway,13,Tuesday,2429.0,92.0,10.4,23.6,Clear,0
+SEG-1094,Sunset Suburban Ring,Local,3,Monday,346.0,39.6,7.4,16.7,Overcast,0
+SEG-1095,Highway 101 Bay Corridor,Highway,3,Sunday,903.0,89.7,5.9,13.1,Clear,0
+SEG-1096,Airport Transit Link,Expressway,8,Monday,3664.0,58.5,46.4,64.7,Clear,0
+SEG-1097,Central Metro Arterial,Arterial,16,Friday,3188.0,26.6,63.5,74.0,Overcast,0
+SEG-1098,Sunset Suburban Ring,Local,17,Monday,887.0,20.5,52.0,55.6,Clear,0
+SEG-1099,Uptown Commercial Ave,Collector,20,Sunday,1519.0,30.1,31.8,41.1,Clear,0
+SEG-1100,Highway 101 Bay Corridor,Highway,6,Monday,2710.0,89.8,16.0,24.2,Overcast,0
+SEG-1101,Uptown Commercial Ave,Collector,11,Sunday,1771.0,22.4,42.8,44.7,Clear,0
+SEG-1102,Uptown Commercial Ave,Collector,2,Tuesday,421.0,19.4,36.8,31.5,Fog,1
+SEG-1103,Tech Innovation Blvd,Arterial,14,Monday,1675.0,48.7,18.5,31.8,Overcast,0
+SEG-1104,Tech Innovation Blvd,Arterial,17,Saturday,1694.0,38.4,34.5,38.4,Clear,0
+SEG-1105,Tech Innovation Blvd,Arterial,5,Sunday,403.0,47.1,11.9,12.1,Rain,0
+SEG-1106,Airport Transit Link,Expressway,18,Friday,3516.0,17.7,82.6,84.7,Clear,1
+SEG-1107,Interstate 80 Express,Highway,9,Wednesday,3459.0,58.6,55.2,65.6,Overcast,0
+SEG-1108,Harbor Industrial Parkway,Collector,4,Tuesday,276.0,41.9,4.1,8.0,Clear,0
+SEG-1109,Central Metro Arterial,Arterial,1,Thursday,622.0,48.0,4.5,12.1,Clear,0
+SEG-1110,Airport Transit Link,Expressway,12,Monday,2395.0,67.1,31.8,44.1,Clear,0
+SEG-1111,Interstate 80 Express,Highway,5,Wednesday,518.0,80.3,12.2,11.8,Rain,0
+SEG-1112,Tech Innovation Blvd,Arterial,6,Friday,1189.0,46.3,19.4,29.3,Rain,0
+SEG-1113,Uptown Commercial Ave,Collector,17,Thursday,2201.0,15.7,60.1,62.4,Clear,0
+SEG-1114,Central Metro Arterial,Arterial,6,Tuesday,1694.0,45.5,18.1,26.8,Clear,0
+SEG-1115,Tech Innovation Blvd,Arterial,17,Thursday,2214.0,29.1,52.1,57.4,Clear,0
+SEG-1116,Airport Transit Link,Expressway,11,Sunday,2198.0,74.5,19.8,34.8,Clear,0
+SEG-1117,Tech Innovation Blvd,Arterial,16,Wednesday,2865.0,35.2,55.1,69.0,Clear,0
+SEG-1118,Central Metro Arterial,Arterial,2,Monday,505.0,25.2,37.3,25.9,Rain,1
+SEG-1119,Central Metro Arterial,Arterial,16,Monday,2917.0,29.3,49.2,66.6,Overcast,0
+SEG-1120,Uptown Commercial Ave,Collector,2,Friday,752.0,25.3,32.0,27.4,Clear,1
+SEG-1121,Harbor Industrial Parkway,Collector,15,Monday,1143.0,38.5,21.2,36.1,Clear,0
+SEG-1122,Harbor Industrial Parkway,Collector,17,Saturday,1282.0,36.1,26.9,35.9,Fog,0
+SEG-1123,Tech Innovation Blvd,Arterial,13,Sunday,1921.0,44.3,28.0,38.7,Clear,0
+SEG-1124,Airport Transit Link,Expressway,0,Friday,728.0,82.2,4.9,9.0,Clear,0
+SEG-1125,Uptown Commercial Ave,Collector,11,Monday,1903.0,29.6,37.8,54.8,Rain,0
+SEG-1126,Sunset Suburban Ring,Local,17,Thursday,1306.0,22.2,68.8,80.7,Overcast,0
+SEG-1127,Highway 101 Bay Corridor,Highway,13,Wednesday,3441.0,75.1,33.6,48.2,Overcast,0
+SEG-1128,Airport Transit Link,Expressway,22,Friday,1916.0,82.6,13.3,24.7,Overcast,0
+SEG-1129,Central Metro Arterial,Arterial,21,Sunday,1451.0,49.8,14.2,25.1,Clear,0
+SEG-1130,Tech Innovation Blvd,Arterial,11,Saturday,1858.0,38.8,39.3,50.8,Fog,0
+SEG-1131,Highway 101 Bay Corridor,Highway,3,Saturday,605.0,84.6,7.9,9.9,Overcast,0
+SEG-1132,Interstate 80 Express,Highway,2,Tuesday,626.0,94.0,2.6,4.1,Overcast,0
+SEG-1133,Tech Innovation Blvd,Arterial,14,Saturday,1839.0,35.3,36.6,44.8,Clear,0
+SEG-1134,Uptown Commercial Ave,Collector,0,Thursday,448.0,31.5,11.6,12.6,Clear,0
+SEG-1135,Interstate 80 Express,Highway,4,Thursday,475.0,89.7,7.1,4.0,Clear,0
+SEG-1136,Tech Innovation Blvd,Arterial,4,Monday,552.0,53.3,2.9,9.4,Overcast,0
+SEG-1137,Highway 101 Bay Corridor,Highway,8,Sunday,2601.0,64.0,32.8,39.2,Clear,1
+SEG-1138,Tech Innovation Blvd,Arterial,9,Thursday,2400.0,14.7,66.7,73.2,Fog,0
+SEG-1139,Highway 101 Bay Corridor,Highway,22,Thursday,2020.0,91.8,10.8,24.3,Clear,0
+SEG-1140,Airport Transit Link,Expressway,5,Friday,797.0,71.1,14.2,16.1,Rain,0
+SEG-1141,Interstate 80 Express,Highway,11,Wednesday,2804.0,64.5,39.6,44.7,Rain,0
+SEG-1142,Tech Innovation Blvd,Arterial,1,Tuesday,676.0,50.2,7.3,13.3,Clear,0
+SEG-1143,Harbor Industrial Parkway,Collector,13,Thursday,1481.0,37.5,27.0,44.1,Overcast,0
+SEG-1144,Interstate 80 Express,Highway,20,Sunday,2325.0,87.5,26.4,33.3,Clear,0
+SEG-1145,Central Metro Arterial,Arterial,11,Saturday,2071.0,48.3,24.0,40.1,Clear,0
+SEG-1146,Harbor Industrial Parkway,Collector,20,Friday,1240.0,50.5,10.5,33.6,Clear,0
+SEG-1147,Harbor Industrial Parkway,Collector,13,Tuesday,1654.0,36.8,30.8,44.4,Overcast,0
+SEG-1148,Central Metro Arterial,Arterial,14,Thursday,1574.0,41.9,18.9,27.9,Rain,0
+SEG-1149,Uptown Commercial Ave,Collector,2,Tuesday,257.0,35.2,3.0,7.2,Clear,0
+SEG-1150,Highway 101 Bay Corridor,Highway,6,Friday,2749.0,69.5,27.7,40.0,Clear,0
+SEG-1151,Uptown Commercial Ave,Collector,12,Sunday,1620.0,35.5,23.7,42.8,Clear,0
+SEG-1152,Sunset Suburban Ring,Local,15,Monday,612.0,44.4,11.0,28.0,Clear,0
+SEG-1153,Tech Innovation Blvd,Arterial,9,Monday,2550.0,30.7,51.2,62.9,Clear,0
+SEG-1154,Central Metro Arterial,Arterial,6,Wednesday,1819.0,48.0,15.7,31.3,Clear,0
+SEG-1155,Central Metro Arterial,Arterial,9,Saturday,1467.0,,14.9,20.3,Clear,0
+SEG-1156,Sunset Suburban Ring,Local,6,Friday,617.0,31.1,27.9,33.2,Clear,0
+SEG-1157,Interstate 80 Express,Highway,1,Thursday,843.0,97.9,2.7,6.1,Overcast,0
+SEG-1158,Central Metro Arterial,Arterial,21,Saturday,1604.0,48.4,11.9,28.8,Clear,0
+SEG-1159,Highway 101 Bay Corridor,Highway,3,Friday,590.0,90.3,5.1,10.6,Clear,0
+SEG-1160,Interstate 80 Express,Highway,15,Thursday,2390.0,61.6,39.3,44.2,Fog,0
+SEG-1161,Sunset Suburban Ring,Local,6,Monday,414.0,35.9,11.2,16.3,Clear,0
+SEG-1162,Interstate 80 Express,Highway,8,Monday,3889.0,48.6,61.6,72.1,Clear,0
+SEG-1163,Airport Transit Link,Expressway,19,Tuesday,3791.0,45.1,58.8,69.6,Clear,0
+SEG-1164,Uptown Commercial Ave,Collector,19,Saturday,952.0,40.6,6.5,21.6,Clear,0
+SEG-1165,Interstate 80 Express,Highway,1,Monday,781.0,98.3,3.7,8.3,Clear,0
+SEG-1166,Airport Transit Link,Expressway,1,Thursday,733.0,81.7,2.0,10.7,Clear,0
+SEG-1167,Highway 101 Bay Corridor,Highway,5,Friday,952.0,82.9,7.5,9.3,Clear,0
+SEG-1168,Harbor Industrial Parkway,Collector,10,Tuesday,1549.0,35.6,28.4,40.2,Clear,0
+SEG-1169,Sunset Suburban Ring,Local,15,Thursday,549.0,37.5,16.1,27.9,Clear,0
+SEG-1170,Harbor Industrial Parkway,Collector,6,Tuesday,1083.0,37.9,19.9,29.3,Clear,0
+SEG-1171,Airport Transit Link,Expressway,21,Friday,1898.0,81.4,12.5,23.5,Clear,0
+SEG-1172,Airport Transit Link,Expressway,17,Friday,3910.0,26.5,75.2,82.5,Fog,0
+SEG-1173,Uptown Commercial Ave,Collector,20,Tuesday,1247.0,37.9,15.2,30.7,Clear,0
+SEG-1174,Highway 101 Bay Corridor,Highway,20,Tuesday,2978.0,60.4,38.7,45.3,Rain,0
+SEG-1175,Highway 101 Bay Corridor,Highway,7,Friday,4225.0,37.5,64.6,70.2,Overcast,0
+SEG-1176,Airport Transit Link,Expressway,11,Monday,2104.0,84.3,14.2,29.9,Clear,0
+SEG-1177,Interstate 80 Express,Highway,4,Thursday,801.0,92.7,6.5,7.9,Overcast,0
+SEG-1178,Central Metro Arterial,Arterial,4,Friday,578.0,52.6,2.0,6.5,Overcast,0
+SEG-1179,Interstate 80 Express,Highway,3,Saturday,1171.0,94.8,6.8,13.5,Clear,0
+SEG-1180,Central Metro Arterial,Arterial,7,Tuesday,3364.0,33.4,52.2,70.7,Clear,0
+SEG-1181,Uptown Commercial Ave,Collector,8,Monday,2143.0,12.4,71.3,68.6,Clear,0
+SEG-1182,Interstate 80 Express,Highway,23,Friday,2607.0,76.1,33.2,41.4,Clear,0
+SEG-1183,Uptown Commercial Ave,Collector,22,Thursday,1437.0,,37.8,40.5,Clear,0
+SEG-1184,Tech Innovation Blvd,Arterial,17,Sunday,1600.0,50.3,21.6,31.4,Clear,0
+SEG-1185,Harbor Industrial Parkway,Collector,18,Sunday,1166.0,43.7,13.4,27.7,Overcast,0
+SEG-1186,Interstate 80 Express,Highway,11,Friday,2363.0,86.5,23.2,38.0,Rain,0
+SEG-1187,Harbor Industrial Parkway,Collector,6,Wednesday,1301.0,33.1,26.8,35.5,Clear,0
+SEG-1188,Central Metro Arterial,Arterial,22,Saturday,1817.0,40.8,27.9,35.0,Rain,0
+SEG-1189,Airport Transit Link,Expressway,5,Friday,408.0,78.6,2.0,4.0,Clear,0
+SEG-1190,Uptown Commercial Ave,Collector,3,Friday,706.0,42.6,4.7,20.0,Clear,0
+SEG-1191,Highway 101 Bay Corridor,Highway,18,Sunday,2727.0,87.1,18.1,32.1,Clear,0
+SEG-1192,Central Metro Arterial,Arterial,15,Friday,1988.0,38.5,32.2,40.2,Clear,0
+SEG-1193,Interstate 80 Express,Highway,5,Thursday,928.0,90.2,13.3,14.0,Clear,0
+SEG-1194,Harbor Industrial Parkway,Collector,12,Saturday,1542.0,26.7,41.7,44.6,Clear,0
+SEG-1195,Interstate 80 Express,Highway,20,Tuesday,2297.0,84.1,22.8,33.3,Rain,0
+SEG-1196,Interstate 80 Express,Highway,19,Monday,3304.0,14.0,75.1,70.1,Rain,1
+SEG-1197,Harbor Industrial Parkway,Collector,9,Monday,1814.0,12.0,73.3,72.9,Overcast,1
+SEG-1198,Uptown Commercial Ave,Collector,20,Tuesday,1378.0,36.0,16.3,32.2,Overcast,0
+SEG-1199,Airport Transit Link,Expressway,23,Monday,1978.0,78.9,14.6,27.3,Clear,0
+SEG-1200,Highway 101 Bay Corridor,Highway,6,Saturday,2139.0,92.4,11.6,24.6,Clear,0
+SEG-1201,Interstate 80 Express,Highway,1,Saturday,785.0,91.9,6.6,9.8,Clear,0
+SEG-1202,Sunset Suburban Ring,Local,15,Wednesday,766.0,40.2,19.2,35.6,Overcast,0
+SEG-1203,Uptown Commercial Ave,Collector,16,Sunday,1447.0,24.3,40.2,45.1,Rain,0
+SEG-1204,Interstate 80 Express,Highway,1,Monday,801.0,93.4,2.0,8.5,Clear,0
+SEG-1205,Central Metro Arterial,Arterial,17,Wednesday,2614.0,22.4,63.2,67.3,Overcast,0
+SEG-1206,Uptown Commercial Ave,Collector,8,Sunday,1513.0,29.6,25.1,35.1,Clear,0
+SEG-1207,Airport Transit Link,Expressway,2,Wednesday,451.0,78.2,6.5,7.2,Clear,0
+SEG-1208,Central Metro Arterial,Arterial,4,Thursday,827.0,46.1,7.8,11.1,Overcast,0
+SEG-1209,Harbor Industrial Parkway,Collector,12,Tuesday,1506.0,42.3,23.9,41.8,Clear,0
+SEG-1210,Airport Transit Link,Expressway,8,Thursday,3672.0,18.2,81.7,81.6,Rain,1
+SEG-1211,Sunset Suburban Ring,Local,20,Thursday,470.0,36.8,17.8,26.9,Overcast,0
+SEG-1212,Interstate 80 Express,Highway,22,Saturday,2431.0,82.1,25.2,38.3,Overcast,0
+SEG-1213,Interstate 80 Express,Highway,7,Sunday,2114.0,95.4,13.9,30.4,Clear,0
+SEG-1214,Harbor Industrial Parkway,Collector,3,Thursday,313.0,44.6,2.0,6.7,Clear,0
+SEG-1215,Harbor Industrial Parkway,Collector,5,Saturday,319.0,36.6,13.2,12.8,Rain,0
+SEG-1216,Uptown Commercial Ave,Collector,21,Monday,1508.0,29.0,34.4,39.9,Clear,0
+SEG-1217,Sunset Suburban Ring,Local,16,Saturday,618.0,36.9,19.4,28.4,Clear,0
+SEG-1218,Tech Innovation Blvd,Arterial,7,Tuesday,3150.0,31.1,59.6,71.2,Overcast,0
+SEG-1219,Airport Transit Link,Expressway,15,Thursday,2486.0,61.7,32.6,40.9,Clear,0
+SEG-1220,Central Metro Arterial,Arterial,19,Friday,3110.0,27.3,56.4,69.0,Clear,0
+SEG-1221,Tech Innovation Blvd,Arterial,12,Wednesday,1892.0,47.8,26.2,41.7,Overcast,0
+SEG-1222,Interstate 80 Express,Highway,11,Saturday,2223.0,94.7,15.7,25.5,Clear,0
+SEG-1223,Sunset Suburban Ring,Local,16,Friday,960.0,24.2,45.4,55.4,Clear,0
+SEG-1224,Sunset Suburban Ring,Local,9,Wednesday,1250.0,18.7,68.9,78.1,Clear,0
+SEG-1225,Uptown Commercial Ave,Collector,12,Wednesday,1671.0,24.5,41.2,45.9,Clear,0
+SEG-1226,Airport Transit Link,Expressway,11,Friday,2657.0,69.4,28.6,43.4,Clear,0
+SEG-1227,Highway 101 Bay Corridor,Highway,17,Tuesday,4778.0,43.3,63.8,70.4,Overcast,0
+SEG-1228,Central Metro Arterial,Arterial,14,Monday,2302.0,31.3,42.4,47.8,Rain,0
+SEG-1229,Interstate 80 Express,Highway,6,Thursday,2545.0,95.4,22.5,34.3,Clear,0
+SEG-1230,Central Metro Arterial,Arterial,0,Sunday,203.0,50.6,3.2,5.5,Clear,0
+SEG-1231,Tech Innovation Blvd,Arterial,20,Saturday,1376.0,46.2,20.4,26.2,Rain,0
+SEG-1232,Sunset Suburban Ring,Local,2,Wednesday,295.0,29.1,20.9,21.8,Rain,0
+SEG-1233,Tech Innovation Blvd,Arterial,0,Sunday,595.0,53.5,2.2,5.2,Clear,0
+SEG-1234,Central Metro Arterial,Arterial,10,Sunday,2032.0,46.2,24.9,43.9,Clear,0
+SEG-1235,Airport Transit Link,Expressway,17,Friday,3394.0,40.7,54.7,63.6,Clear,0
+SEG-1236,Highway 101 Bay Corridor,Highway,4,Tuesday,808.0,93.2,2.0,5.3,Clear,0
+SEG-1237,Sunset Suburban Ring,Local,21,Thursday,531.0,30.4,29.9,31.0,Fog,0
+SEG-1238,Highway 101 Bay Corridor,Highway,12,Wednesday,3260.0,71.9,30.8,43.9,Clear,0
+SEG-1239,Airport Transit Link,Expressway,2,Friday,793.0,86.9,2.0,8.3,Clear,0
+SEG-1240,Airport Transit Link,Expressway,7,Thursday,4008.0,26.8,68.5,77.7,Rain,0
+SEG-1241,Harbor Industrial Parkway,Collector,20,Saturday,1397.0,30.6,33.0,42.1,Overcast,0
+SEG-1242,Sunset Suburban Ring,Local,11,Thursday,1044.0,28.3,45.2,62.4,Overcast,0
+SEG-1243,Sunset Suburban Ring,Local,18,Tuesday,1296.0,16.0,73.8,80.1,Overcast,0
+SEG-1244,Uptown Commercial Ave,Collector,8,Thursday,2054.0,17.3,56.1,62.6,Clear,0
+SEG-1245,Highway 101 Bay Corridor,Highway,21,Friday,2721.0,94.6,15.9,29.4,Clear,0
+SEG-1246,Central Metro Arterial,Arterial,23,Saturday,2202.0,25.0,53.7,56.5,Rain,1
+SEG-1247,Interstate 80 Express,Highway,14,Friday,2872.0,76.0,31.7,44.4,Clear,0
+SEG-1248,Highway 101 Bay Corridor,Highway,13,Saturday,2489.0,88.9,13.8,23.3,Clear,0
+SEG-1249,Sunset Suburban Ring,Local,16,Sunday,633.0,37.4,19.6,28.0,Overcast,0
+SEG-1250,Highway 101 Bay Corridor,Highway,6,Wednesday,2380.0,92.2,11.3,23.0,Overcast,0
+SEG-1251,Interstate 80 Express,Highway,20,Friday,1939.0,95.6,18.7,30.0,Clear,0
+SEG-1252,Tech Innovation Blvd,Arterial,19,Tuesday,3037.0,31.8,57.3,74.2,Clear,0
+SEG-1253,Highway 101 Bay Corridor,Highway,11,Sunday,3211.0,78.8,31.4,43.6,Clear,0
+SEG-1254,Harbor Industrial Parkway,Collector,5,Monday,360.0,39.0,6.5,7.1,Clear,0
+SEG-1255,Interstate 80 Express,Highway,10,Wednesday,2414.0,68.0,34.5,38.3,Clear,0
+SEG-1256,Uptown Commercial Ave,Collector,0,Thursday,344.0,33.1,8.3,8.2,Clear,0
+SEG-1257,Tech Innovation Blvd,Arterial,10,Monday,1958.0,50.6,17.8,30.3,Overcast,0
+SEG-1258,Sunset Suburban Ring,Local,8,Wednesday,956.0,17.8,62.0,68.5,Clear,0
+SEG-1259,Uptown Commercial Ave,Collector,1,Monday,668.0,32.2,12.5,11.2,Overcast,0
+SEG-1260,Sunset Suburban Ring,Local,7,Sunday,724.0,32.0,30.8,39.1,Clear,0
+SEG-1261,Central Metro Arterial,Arterial,2,Friday,713.0,46.2,5.9,11.3,Clear,0
+SEG-1262,Interstate 80 Express,Highway,2,Sunday,714.0,96.3,3.4,9.1,Clear,0
+SEG-1263,Interstate 80 Express,Highway,19,Sunday,2151.0,95.7,15.1,30.8,Overcast,0
+SEG-1264,Highway 101 Bay Corridor,Highway,6,Thursday,2667.0,97.0,15.1,31.0,Clear,0
+SEG-1265,Sunset Suburban Ring,Local,10,Monday,669.0,40.5,21.3,31.0,Clear,0
+SEG-1266,Tech Innovation Blvd,Arterial,22,Thursday,1895.0,46.4,23.4,35.9,Clear,0
+SEG-1267,Tech Innovation Blvd,Arterial,6,Tuesday,1512.0,46.0,21.5,33.4,Rain,0
+SEG-1268,Interstate 80 Express,Highway,16,Sunday,2170.0,85.8,20.5,30.0,Rain,0
+SEG-1269,Highway 101 Bay Corridor,Highway,5,Wednesday,1237.0,91.4,5.6,10.7,Overcast,0
+SEG-1270,Uptown Commercial Ave,Collector,2,Saturday,493.0,33.1,12.4,15.3,Rain,0
+SEG-1271,Uptown Commercial Ave,Collector,11,Saturday,1569.0,29.2,28.1,41.1,Clear,0
+SEG-1272,Highway 101 Bay Corridor,Highway,18,Sunday,3124.0,66.7,36.2,44.6,Clear,0
+SEG-1273,Uptown Commercial Ave,Collector,7,Friday,2126.0,12.0,71.7,72.0,Rain,0
+SEG-1274,Airport Transit Link,Expressway,9,Thursday,3156.0,47.7,53.4,61.5,Clear,0
+SEG-1275,Central Metro Arterial,Arterial,21,Friday,2009.0,41.7,30.2,45.2,Clear,0
+SEG-1276,Tech Innovation Blvd,Arterial,20,Saturday,1725.0,43.7,24.5,37.3,Rain,0
+SEG-1277,Central Metro Arterial,Arterial,17,Thursday,3468.0,30.8,55.6,69.2,Overcast,0
+SEG-1278,Tech Innovation Blvd,Arterial,4,Wednesday,456.0,52.6,5.1,10.7,Clear,0
+SEG-1279,Highway 101 Bay Corridor,Highway,7,Friday,4346.0,45.2,56.2,65.1,Clear,0
+SEG-1280,Uptown Commercial Ave,Collector,13,Thursday,1391.0,35.5,22.8,37.6,Clear,0
+SEG-1281,Sunset Suburban Ring,Local,9,Thursday,998.0,19.8,55.8,61.9,Clear,0
+SEG-1282,Interstate 80 Express,Highway,21,Saturday,1766.0,91.2,13.2,24.9,Clear,0
+SEG-1283,Uptown Commercial Ave,Collector,8,Friday,2456.0,23.5,52.0,69.1,Overcast,0
+SEG-1284,Uptown Commercial Ave,Collector,21,Thursday,1408.0,32.9,23.3,38.3,Fog,0
+SEG-1285,Highway 101 Bay Corridor,Highway,1,Sunday,731.0,89.0,6.2,8.6,Clear,0
+SEG-1286,Central Metro Arterial,Arterial,20,Friday,1789.0,47.4,19.4,31.1,Clear,0
+SEG-1287,Sunset Suburban Ring,Local,6,Wednesday,437.0,43.3,6.5,20.3,Overcast,0
+SEG-1288,Tech Innovation Blvd,Arterial,19,Friday,3012.0,21.4,66.4,74.0,Rain,0
+SEG-1289,Sunset Suburban Ring,Local,3,Tuesday,208.0,44.4,6.5,10.2,Clear,0
+SEG-1290,Harbor Industrial Parkway,Collector,0,Monday,235.0,41.8,4.1,6.2,Clear,0
+SEG-1291,Uptown Commercial Ave,Collector,3,Thursday,437.0,38.7,7.4,12.6,Clear,0
+SEG-1292,Sunset Suburban Ring,Local,22,Wednesday,350.0,38.5,11.7,18.7,Clear,0
+SEG-1293,Airport Transit Link,Expressway,13,Friday,,65.7,28.7,39.5,Clear,0
+SEG-1294,Tech Innovation Blvd,Arterial,0,Friday,469.0,54.3,3.1,9.8,Overcast,0
+SEG-1295,Interstate 80 Express,Highway,7,Tuesday,3517.0,48.7,54.7,64.2,Clear,0
+SEG-1296,Interstate 80 Express,Highway,16,Thursday,4007.0,53.5,57.8,67.7,Clear,0
+SEG-1297,Uptown Commercial Ave,Collector,6,Wednesday,1170.0,33.2,22.6,30.1,Clear,0
+SEG-1298,Harbor Industrial Parkway,Collector,20,Tuesday,1436.0,40.0,27.4,36.8,Overcast,0
+SEG-1299,Central Metro Arterial,Arterial,1,Friday,437.0,49.8,5.8,8.8,Clear,0
+SEG-1300,Harbor Industrial Parkway,Collector,12,Thursday,1680.0,36.6,34.8,47.4,Clear,0
+SEG-1301,Sunset Suburban Ring,Local,5,Saturday,227.0,21.4,32.3,22.2,Clear,1
+SEG-1302,Airport Transit Link,Expressway,8,Wednesday,3532.0,40.1,62.1,70.1,Clear,0
+SEG-1303,Uptown Commercial Ave,Collector,0,Monday,482.0,29.4,12.2,12.0,Clear,0
+SEG-1304,Sunset Suburban Ring,Local,17,Saturday,496.0,28.2,35.5,37.2,Rain,0
+SEG-1305,Harbor Industrial Parkway,Collector,7,Wednesday,1869.0,22.0,58.2,67.7,Overcast,0
+SEG-1306,Central Metro Arterial,Arterial,5,Tuesday,401.0,52.9,2.0,10.4,Clear,0
+SEG-1307,Highway 101 Bay Corridor,Highway,12,Thursday,3097.0,77.3,28.2,40.3,Clear,0
+SEG-1308,Airport Transit Link,Expressway,15,Friday,2507.0,64.4,30.8,42.3,Clear,0
+SEG-1309,Tech Innovation Blvd,Arterial,11,Thursday,1649.0,52.5,16.8,30.9,Clear,0
+SEG-1310,Harbor Industrial Parkway,Collector,22,Friday,1145.0,39.0,24.7,28.3,Clear,0
+SEG-1311,Harbor Industrial Parkway,Collector,8,Saturday,805.0,38.3,9.4,13.8,Overcast,0
+SEG-1312,Sunset Suburban Ring,Local,13,Thursday,636.0,46.1,10.6,30.2,Clear,0
+SEG-1313,Highway 101 Bay Corridor,Highway,14,Thursday,2619.0,88.2,14.2,27.5,Clear,0
+SEG-1314,Harbor Industrial Parkway,Collector,14,Saturday,1233.0,22.8,46.4,43.2,Rain,0
+SEG-1315,Interstate 80 Express,Highway,17,Tuesday,3920.0,47.7,58.4,68.3,Clear,0
+SEG-1316,Sunset Suburban Ring,Local,23,Tuesday,784.0,32.8,37.1,47.9,Clear,0
+SEG-1317,Central Metro Arterial,Arterial,2,Sunday,761.0,44.3,15.8,19.5,Rain,0
+SEG-1318,Airport Transit Link,Expressway,21,Monday,2078.0,61.0,33.4,37.6,Clear,0
+SEG-1319,Airport Transit Link,Expressway,13,Saturday,2035.0,47.8,44.4,43.5,Clear,1
+SEG-1320,Interstate 80 Express,Highway,12,Tuesday,2394.0,78.1,27.1,35.3,Clear,0
+SEG-1321,Harbor Industrial Parkway,Collector,3,Wednesday,351.0,44.3,3.3,9.3,Clear,0
+SEG-1322,Interstate 80 Express,Highway,1,Friday,1000.0,87.3,8.5,7.7,Clear,0
+SEG-1323,Sunset Suburban Ring,Local,19,Monday,1307.0,18.7,65.1,76.0,Clear,0
+SEG-1324,Sunset Suburban Ring,Local,22,Sunday,909.0,38.9,30.0,53.0,Clear,0
+SEG-1325,Harbor Industrial Parkway,Collector,15,Wednesday,1609.0,35.4,38.3,51.7,Clear,0
+SEG-1326,Highway 101 Bay Corridor,Highway,11,Wednesday,3411.0,73.6,33.4,43.8,Overcast,0
+SEG-1327,Interstate 80 Express,Highway,12,Thursday,2783.0,80.8,32.8,44.4,Clear,0
+SEG-1328,Interstate 80 Express,Highway,7,Monday,3926.0,44.4,60.4,67.4,Clear,0
+SEG-1329,Sunset Suburban Ring,Local,7,Sunday,613.0,30.0,35.8,42.4,Rain,0
+SEG-1330,Highway 101 Bay Corridor,Highway,2,Friday,793.0,89.8,4.7,8.5,Clear,0
+SEG-1331,Tech Innovation Blvd,Arterial,15,Friday,2144.0,27.0,59.1,60.8,Clear,1
+SEG-1332,Sunset Suburban Ring,Local,4,Friday,302.0,42.8,4.6,12.6,Clear,0
+SEG-1333,Interstate 80 Express,Highway,19,Wednesday,3943.0,43.9,57.8,71.7,Rain,0
+SEG-1334,Harbor Industrial Parkway,Collector,16,Tuesday,2085.0,18.4,63.6,70.2,Overcast,0
+SEG-1335,Airport Transit Link,Expressway,11,Friday,2741.0,60.4,38.8,45.9,Clear,0
+SEG-1336,Sunset Suburban Ring,Local,11,Saturday,,36.5,31.8,48.9,Clear,0
+SEG-1337,Harbor Industrial Parkway,Collector,5,Wednesday,688.0,43.0,7.7,15.1,Clear,0
+SEG-1338,Central Metro Arterial,Arterial,7,Thursday,2590.0,12.0,75.3,72.6,Clear,1
+SEG-1339,Uptown Commercial Ave,Collector,15,Friday,1473.0,25.9,34.6,42.2,Fog,0
+SEG-1340,Interstate 80 Express,Highway,14,Sunday,2849.0,65.7,38.3,47.1,Fog,0
+SEG-1341,Highway 101 Bay Corridor,Highway,6,Thursday,2169.0,81.1,16.4,23.4,Clear,0
+SEG-1342,Sunset Suburban Ring,Local,7,Friday,1149.0,12.0,75.0,77.9,Clear,1
+SEG-1343,Sunset Suburban Ring,Local,5,Sunday,210.0,35.8,13.0,13.8,Fog,0
+SEG-1344,Sunset Suburban Ring,Local,5,Tuesday,219.0,33.8,11.0,10.4,Clear,0
+SEG-1345,Uptown Commercial Ave,Collector,9,Monday,2124.0,14.7,60.5,65.4,Overcast,0
+SEG-1346,Sunset Suburban Ring,Local,8,Thursday,1137.0,26.0,55.7,71.5,Clear,0
+SEG-1347,Sunset Suburban Ring,Local,17,Sunday,593.0,44.7,14.1,29.0,Overcast,0
+SEG-1348,Harbor Industrial Parkway,Collector,21,Thursday,1215.0,33.0,29.5,35.3,Fog,0
+SEG-1349,Central Metro Arterial,Arterial,2,Friday,854.0,55.1,2.0,17.3,Clear,0
+SEG-1350,Sunset Suburban Ring,Local,2,Tuesday,268.0,41.6,4.1,14.3,Clear,0
+SEG-1351,Interstate 80 Express,Highway,20,Tuesday,2563.0,90.6,19.7,34.2,Clear,0
+SEG-1352,Tech Innovation Blvd,Arterial,0,Monday,434.0,49.7,6.5,8.8,Clear,0
+SEG-1353,Uptown Commercial Ave,Collector,4,Monday,504.0,41.6,2.0,12.3,Overcast,0
+SEG-1354,Highway 101 Bay Corridor,Highway,13,Saturday,3283.0,76.5,33.2,40.8,Clear,0
+SEG-1355,Tech Innovation Blvd,Arterial,20,Sunday,1847.0,47.8,20.4,37.9,Clear,0
+SEG-1356,Airport Transit Link,Expressway,13,Monday,2260.0,78.3,19.5,36.0,Clear,0
+SEG-1357,Central Metro Arterial,Arterial,16,Monday,3122.0,32.7,52.3,68.6,Clear,0
+SEG-1358,Central Metro Arterial,Arterial,18,Wednesday,2925.0,22.6,59.8,63.4,Clear,0
+SEG-1359,Tech Innovation Blvd,Arterial,1,Saturday,538.0,42.3,19.7,16.7,Rain,0
+SEG-1360,Uptown Commercial Ave,Collector,13,Wednesday,1101.0,34.6,15.8,27.3,Clear,0
+SEG-1361,Uptown Commercial Ave,Collector,11,Tuesday,1344.0,27.7,23.5,34.7,Rain,0
+SEG-1362,Highway 101 Bay Corridor,Highway,23,Saturday,2589.0,88.0,15.5,27.6,Clear,0
+SEG-1363,Central Metro Arterial,Arterial,15,Monday,1946.0,31.4,37.2,43.3,Clear,0
+SEG-1364,Interstate 80 Express,Highway,21,Monday,2286.0,95.9,13.4,29.9,Overcast,0
+SEG-1365,Tech Innovation Blvd,Arterial,5,Friday,448.0,51.2,3.4,8.6,Clear,0
+SEG-1366,Interstate 80 Express,Highway,10,Thursday,2974.0,80.6,33.6,45.5,Overcast,0
+SEG-1367,Interstate 80 Express,Highway,19,Monday,4114.0,47.0,62.1,72.3,Clear,0
+SEG-1368,Highway 101 Bay Corridor,Highway,0,Thursday,751.0,91.3,7.8,9.5,Clear,0
+SEG-1369,Airport Transit Link,Expressway,21,Thursday,2164.0,54.0,36.8,41.5,Fog,0
+SEG-1370,Uptown Commercial Ave,Collector,21,Friday,1433.0,34.4,22.3,32.1,Clear,0
+SEG-1371,Airport Transit Link,Expressway,15,Saturday,2132.0,77.0,20.1,33.7,Overcast,0
+SEG-1372,Harbor Industrial Parkway,Collector,13,Sunday,1430.0,39.7,22.4,39.0,Clear,0
+SEG-1373,Highway 101 Bay Corridor,Highway,14,Friday,2976.0,72.3,32.4,40.8,Clear,0
+SEG-1374,Tech Innovation Blvd,Arterial,22,Sunday,1614.0,49.8,17.7,24.5,Clear,0
+SEG-1375,Sunset Suburban Ring,Local,11,Friday,995.0,31.6,37.7,50.2,Clear,0
+SEG-1376,Uptown Commercial Ave,Collector,14,Saturday,1654.0,29.6,33.2,42.1,Clear,0
+SEG-1377,Harbor Industrial Parkway,Collector,7,Sunday,1051.0,44.4,13.2,22.4,Overcast,0
+SEG-1378,Highway 101 Bay Corridor,Highway,5,Tuesday,952.0,89.5,5.8,11.4,Clear,0
+SEG-1379,Harbor Industrial Parkway,Collector,9,Tuesday,1963.0,18.7,64.4,70.8,Clear,0
+SEG-1380,Central Metro Arterial,Arterial,16,Thursday,2872.0,27.0,52.5,63.1,Clear,0
+SEG-1381,Uptown Commercial Ave,Collector,10,Friday,1709.0,13.3,62.0,65.4,Fog,1
+SEG-1382,Uptown Commercial Ave,Collector,4,Sunday,574.0,32.3,13.1,16.4,Clear,0
+SEG-1383,Highway 101 Bay Corridor,Highway,13,Tuesday,2516.0,86.7,17.1,28.3,Clear,0
+SEG-1384,Airport Transit Link,Expressway,20,Saturday,1672.0,65.2,24.1,30.5,Fog,0
+SEG-1385,Highway 101 Bay Corridor,Highway,2,Friday,975.0,87.2,9.0,8.6,Overcast,0
+SEG-1386,Tech Innovation Blvd,Arterial,6,Saturday,1729.0,51.1,15.3,34.2,Clear,0
+SEG-1387,Sunset Suburban Ring,Local,11,Friday,712.0,38.1,17.2,29.6,Overcast,0
+SEG-1388,Tech Innovation Blvd,Arterial,4,Saturday,665.0,53.8,8.6,12.0,Clear,0
+SEG-1389,Uptown Commercial Ave,Collector,13,Thursday,1581.0,33.2,21.7,37.9,Clear,0
+SEG-1390,Harbor Industrial Parkway,Collector,15,Tuesday,1234.0,23.2,43.3,44.9,Clear,1
+SEG-1391,Central Metro Arterial,Arterial,5,Saturday,332.0,42.6,9.8,10.0,Rain,0
+SEG-1392,Central Metro Arterial,Arterial,4,Saturday,491.0,51.9,2.7,10.8,Overcast,0
+SEG-1393,Central Metro Arterial,Arterial,20,Tuesday,1801.0,55.4,9.4,29.6,Clear,0
+SEG-1394,Uptown Commercial Ave,Collector,10,Monday,1355.0,30.4,25.1,33.0,Clear,0
+SEG-1395,Uptown Commercial Ave,Collector,20,Tuesday,1249.0,35.0,17.6,29.9,Overcast,0
+SEG-1396,Interstate 80 Express,Highway,12,Monday,2663.0,74.5,30.9,43.1,Overcast,0
+SEG-1397,Tech Innovation Blvd,Arterial,7,Monday,2313.0,18.5,66.4,72.5,Clear,1
+SEG-1398,Harbor Industrial Parkway,Collector,1,Friday,307.0,41.3,6.9,10.5,Overcast,0
+SEG-1399,Sunset Suburban Ring,Local,13,Tuesday,497.0,38.8,20.0,33.1,Rain,0
+SEG-1400,Tech Innovation Blvd,Arterial,23,Monday,1423.0,53.8,12.9,25.8,Clear,0
+SEG-1401,Airport Transit Link,Expressway,3,Friday,340.0,84.1,5.2,6.5,Clear,0
+SEG-1402,Uptown Commercial Ave,Collector,13,Sunday,1618.0,31.2,31.8,44.3,Clear,0
+SEG-1403,Uptown Commercial Ave,Collector,10,Monday,1691.0,31.1,26.7,42.3,Clear,0
+SEG-1404,Interstate 80 Express,Highway,19,Thursday,4596.0,32.3,75.2,79.0,Clear,0
+SEG-1405,Uptown Commercial Ave,Collector,0,Monday,368.0,41.0,2.0,10.4,Clear,0
+SEG-1406,Tech Innovation Blvd,Arterial,11,Thursday,2260.0,42.0,31.4,47.6,Overcast,0
+SEG-1407,Airport Transit Link,Expressway,12,Saturday,2187.0,69.1,26.0,38.8,Clear,0
+SEG-1408,Sunset Suburban Ring,Local,18,Sunday,463.0,32.2,26.2,28.9,Fog,0
+SEG-1409,Central Metro Arterial,Arterial,5,Saturday,457.0,49.4,4.2,5.8,Clear,0
+SEG-1410,Central Metro Arterial,Arterial,20,Friday,1465.0,51.5,9.4,27.4,Clear,0
+SEG-1411,Central Metro Arterial,Arterial,16,Sunday,1978.0,37.8,31.8,39.2,Clear,0
+SEG-1412,Harbor Industrial Parkway,Collector,18,Monday,2066.0,20.2,59.9,62.9,Clear,0
+SEG-1413,Highway 101 Bay Corridor,Highway,14,Friday,2628.0,90.5,13.5,29.4,Clear,0
+SEG-1414,Uptown Commercial Ave,Collector,15,Friday,1463.0,28.9,33.0,40.5,Clear,0
+SEG-1415,Tech Innovation Blvd,Arterial,0,Sunday,717.0,50.0,8.1,11.3,Clear,0
+SEG-1416,Central Metro Arterial,Arterial,13,Monday,1778.0,44.0,19.3,27.7,Clear,0
+SEG-1417,Sunset Suburban Ring,Local,13,Tuesday,754.0,37.7,23.8,36.1,Clear,0
+SEG-1418,Highway 101 Bay Corridor,Highway,20,Sunday,2992.0,53.5,43.9,45.0,Rain,0
+SEG-1419,Interstate 80 Express,Highway,9,Friday,3772.0,48.2,57.6,64.2,Overcast,0
+SEG-1420,Tech Innovation Blvd,Arterial,21,Tuesday,1415.0,46.9,21.7,27.1,Clear,0
+SEG-1421,Interstate 80 Express,Highway,1,Friday,749.0,89.7,8.0,9.6,Clear,0
+SEG-1422,Sunset Suburban Ring,Local,18,Sunday,727.0,19.6,51.7,49.5,Clear,1
+SEG-1423,Uptown Commercial Ave,Collector,14,Wednesday,1434.0,27.7,27.6,32.6,Clear,0
+SEG-1424,Uptown Commercial Ave,Collector,19,Sunday,1223.0,27.3,35.2,43.9,Clear,1
+SEG-1425,Interstate 80 Express,Highway,6,Sunday,2228.0,85.5,26.4,31.7,Overcast,0
+SEG-1426,Interstate 80 Express,Highway,17,Thursday,4066.0,45.0,66.9,75.3,Fog,0
+SEG-1427,Interstate 80 Express,Highway,17,Saturday,1620.0,,4.5,14.7,Clear,0
+SEG-1428,Tech Innovation Blvd,Arterial,0,Thursday,930.0,54.3,3.1,15.0,Clear,0
+SEG-1429,Airport Transit Link,Expressway,4,Monday,442.0,80.7,3.3,9.1,Clear,0
+SEG-1430,Airport Transit Link,Expressway,17,Sunday,2473.0,60.8,31.2,42.1,Clear,0
+SEG-1431,Central Metro Arterial,Arterial,10,Sunday,1766.0,31.9,34.8,44.2,Clear,1
+SEG-1432,Tech Innovation Blvd,Arterial,16,Friday,2432.0,13.2,73.1,74.9,Overcast,1
+SEG-1433,Tech Innovation Blvd,Arterial,12,Saturday,1745.0,43.0,24.9,34.7,Clear,0
+SEG-1434,Uptown Commercial Ave,Collector,10,Wednesday,1409.0,30.8,33.3,43.0,Clear,0
+SEG-1435,Highway 101 Bay Corridor,Highway,23,Wednesday,2495.0,89.6,15.7,31.1,Overcast,0
+SEG-1436,Interstate 80 Express,Highway,20,Tuesday,2173.0,94.1,15.6,29.0,Clear,0
+SEG-1437,Highway 101 Bay Corridor,Highway,17,Monday,4800.0,36.1,65.2,74.3,Clear,0
+SEG-1438,Sunset Suburban Ring,Local,18,Tuesday,1036.0,18.7,58.3,62.4,Overcast,0
+SEG-1439,Highway 101 Bay Corridor,Highway,15,Tuesday,2995.0,73.6,28.3,38.0,Clear,0
+SEG-1440,Sunset Suburban Ring,Local,22,Tuesday,838.0,35.7,24.7,40.9,Clear,0
+SEG-1441,Tech Innovation Blvd,Arterial,17,Thursday,2962.0,28.7,55.4,67.4,Clear,0
+SEG-1442,Uptown Commercial Ave,Collector,2,Monday,628.0,35.7,11.1,15.9,Rain,0
+SEG-1443,Sunset Suburban Ring,Local,2,Sunday,150.0,38.7,7.8,7.3,Clear,0
+SEG-1444,Tech Innovation Blvd,Arterial,4,Tuesday,614.0,46.5,16.0,18.6,Rain,0
+SEG-1445,Airport Transit Link,Expressway,22,Friday,2095.0,62.9,34.0,38.4,Clear,0
+SEG-1446,Highway 101 Bay Corridor,Highway,22,Saturday,2315.0,85.0,18.1,28.2,Clear,0
+SEG-1447,Sunset Suburban Ring,Local,23,Monday,647.0,31.6,27.0,36.2,Clear,0
+SEG-1448,Interstate 80 Express,Highway,15,Sunday,2186.0,103.8,12.9,30.7,Clear,0
+SEG-1449,Uptown Commercial Ave,Collector,9,Tuesday,1969.0,26.0,43.8,54.3,Clear,0
+SEG-1450,Uptown Commercial Ave,Collector,18,Saturday,1605.0,23.9,39.4,45.7,Clear,0
+SEG-1451,Interstate 80 Express,Highway,12,Monday,2880.0,85.8,27.9,42.9,Clear,0
+SEG-1452,Uptown Commercial Ave,Collector,8,Wednesday,2090.0,24.3,51.7,67.9,Overcast,0
+SEG-1453,Sunset Suburban Ring,Local,2,Thursday,260.0,36.0,11.6,15.8,Rain,0
+SEG-1454,Tech Innovation Blvd,Arterial,22,Tuesday,1230.0,52.7,11.7,19.4,Clear,0
+SEG-1455,Central Metro Arterial,Arterial,14,Friday,2022.0,40.7,23.9,35.6,Clear,0
+SEG-1456,Highway 101 Bay Corridor,Highway,17,Saturday,2015.0,59.9,27.5,27.7,Clear,1
+SEG-1457,Interstate 80 Express,Highway,23,Saturday,2494.0,74.6,25.2,36.7,Clear,0
+SEG-1458,Highway 101 Bay Corridor,Highway,22,Tuesday,2898.0,77.6,24.1,39.7,Rain,0
+SEG-1459,Interstate 80 Express,Highway,4,Tuesday,1086.0,70.4,25.7,25.0,Clear,1
+SEG-1460,Interstate 80 Express,Highway,0,Thursday,879.0,97.8,4.0,11.3,Clear,0
+SEG-1461,Highway 101 Bay Corridor,Highway,21,Friday,2910.0,73.4,29.2,39.9,Overcast,0
+SEG-1462,Tech Innovation Blvd,Arterial,2,Sunday,690.0,46.3,11.2,13.5,Clear,0
+SEG-1463,Harbor Industrial Parkway,Collector,8,Wednesday,1730.0,23.4,46.6,55.8,Clear,0
+SEG-1464,Central Metro Arterial,Arterial,19,Saturday,1284.0,44.3,12.9,19.0,Clear,0
+SEG-1465,Harbor Industrial Parkway,Collector,23,Saturday,1284.0,41.4,15.3,30.7,Overcast,0
+SEG-1466,Harbor Industrial Parkway,Collector,7,Tuesday,2347.0,25.1,53.5,69.6,Clear,0
+SEG-1467,Tech Innovation Blvd,Arterial,13,Saturday,1918.0,35.6,40.3,41.0,Clear,0
+SEG-1468,Interstate 80 Express,Highway,21,Sunday,1981.0,94.7,15.1,25.7,Clear,0
+SEG-1469,Uptown Commercial Ave,Collector,3,Friday,682.0,31.7,19.7,25.5,Rain,0
+SEG-1470,Sunset Suburban Ring,Local,13,Friday,770.0,41.7,17.3,36.9,Clear,0
+SEG-1471,Harbor Industrial Parkway,Collector,19,Saturday,1166.0,46.1,10.1,27.6,Clear,0
+SEG-1472,Uptown Commercial Ave,Collector,14,Tuesday,1740.0,29.1,31.3,46.2,Clear,0
+SEG-1473,Highway 101 Bay Corridor,Highway,1,Sunday,666.0,94.0,2.0,7.9,Clear,0
+SEG-1474,Central Metro Arterial,Arterial,20,Saturday,1302.0,48.9,12.8,20.8,Clear,0
+SEG-1475,Tech Innovation Blvd,Arterial,23,Monday,1775.0,54.2,12.6,32.1,Clear,0
+SEG-1476,Airport Transit Link,Expressway,23,Tuesday,1656.0,82.1,12.4,27.1,Clear,0
+SEG-1477,Uptown Commercial Ave,Collector,3,Tuesday,465.0,34.8,5.2,6.7,Clear,0
+SEG-1478,Uptown Commercial Ave,Collector,18,Tuesday,2167.0,16.6,63.0,71.4,Rain,0
+SEG-1479,Interstate 80 Express,Highway,11,Monday,2829.0,73.0,38.9,47.0,Clear,0
+SEG-1480,Harbor Industrial Parkway,Collector,13,Thursday,,31.6,34.4,43.5,Overcast,0
+SEG-1481,Tech Innovation Blvd,Arterial,5,Thursday,493.0,48.7,11.1,8.9,Clear,0
+SEG-1482,Uptown Commercial Ave,Collector,2,Thursday,420.0,39.3,2.3,9.6,Clear,0
+SEG-1483,Harbor Industrial Parkway,Collector,23,Saturday,1132.0,43.6,12.1,24.5,Clear,0
+SEG-1484,Central Metro Arterial,Arterial,13,Wednesday,2072.0,33.9,43.2,41.3,Clear,0
+SEG-1485,Tech Innovation Blvd,Arterial,21,Tuesday,1524.0,43.6,24.1,27.3,Clear,0
+SEG-1486,Central Metro Arterial,Arterial,20,Wednesday,1941.0,46.1,22.0,34.3,Clear,0
+SEG-1487,Interstate 80 Express,Highway,14,Wednesday,2270.0,88.4,21.9,30.9,Clear,0
+SEG-1488,Central Metro Arterial,Arterial,22,Saturday,1485.0,44.9,18.3,26.1,Clear,0
+SEG-1489,Interstate 80 Express,Highway,11,Sunday,2520.0,75.4,31.9,40.7,Clear,0
+SEG-1490,Highway 101 Bay Corridor,Highway,5,Friday,1359.0,86.1,6.5,15.9,Overcast,0
+SEG-1491,Highway 101 Bay Corridor,Highway,20,Thursday,2531.0,90.1,17.9,30.4,Clear,0
+SEG-1492,Tech Innovation Blvd,Arterial,17,Saturday,1673.0,42.8,26.2,35.2,Rain,0
+SEG-1493,Tech Innovation Blvd,Arterial,9,Sunday,1592.0,30.4,39.9,40.5,Clear,1
+SEG-1494,Interstate 80 Express,Highway,6,Monday,1723.0,97.2,8.6,22.7,Clear,0
+SEG-1495,Tech Innovation Blvd,Arterial,9,Tuesday,2549.0,12.3,73.6,73.4,Clear,1
+SEG-1496,Highway 101 Bay Corridor,Highway,21,Tuesday,1985.0,89.1,16.6,26.4,Clear,0
+SEG-1497,Tech Innovation Blvd,Arterial,9,Wednesday,2444.0,30.7,48.9,56.1,Overcast,0
+SEG-1498,Highway 101 Bay Corridor,Highway,15,Friday,2841.0,74.3,28.6,37.0,Clear,0
+SEG-1499,Tech Innovation Blvd,Arterial,17,Friday,2516.0,21.9,62.7,65.1,Rain,0
+SEG-1500,Airport Transit Link,Expressway,4,Wednesday,393.0,68.2,12.9,10.3,Rain,0
+SEG-1501,Sunset Suburban Ring,Local,2,Sunday,270.0,36.5,8.3,9.1,Clear,0
+SEG-1502,Interstate 80 Express,Highway,6,Friday,2619.0,78.5,27.7,37.9,Clear,0
+SEG-1503,Airport Transit Link,Expressway,15,Monday,2819.0,69.0,31.8,45.1,Clear,0
+SEG-1504,Harbor Industrial Parkway,Collector,10,Tuesday,1348.0,,14.1,30.8,Clear,0
+SEG-1505,Airport Transit Link,Expressway,18,Saturday,2567.0,63.4,35.0,48.5,Clear,0
+SEG-1506,Central Metro Arterial,Arterial,8,Friday,2969.0,21.4,62.4,68.2,Rain,0
+SEG-1507,Highway 101 Bay Corridor,Highway,14,Thursday,2661.0,75.9,25.4,33.9,Clear,0
+SEG-1508,Central Metro Arterial,Arterial,13,Tuesday,2011.0,14.7,60.4,54.3,Overcast,1
+SEG-1509,Uptown Commercial Ave,Collector,14,Wednesday,1555.0,21.0,42.8,44.1,Clear,0
+SEG-1510,Harbor Industrial Parkway,Collector,11,Saturday,1200.0,40.9,18.2,33.6,Rain,0
+SEG-1511,Sunset Suburban Ring,Local,3,Sunday,150.0,29.5,19.9,14.6,Rain,0
+SEG-1512,Central Metro Arterial,Arterial,12,Tuesday,2322.0,41.6,25.5,37.2,Clear,0
+SEG-1513,Uptown Commercial Ave,Collector,4,Tuesday,507.0,39.4,2.0,11.2,Clear,0
+SEG-1514,Airport Transit Link,Expressway,7,Saturday,2064.0,76.9,20.6,33.1,Clear,0
+SEG-1515,Tech Innovation Blvd,Arterial,11,Tuesday,2078.0,46.3,29.8,44.8,Clear,0
+SEG-1516,Airport Transit Link,Expressway,23,Friday,1798.0,77.8,10.4,27.0,Clear,0
+SEG-1517,Uptown Commercial Ave,Collector,19,Thursday,2164.0,26.5,47.1,66.2,Clear,0
+SEG-1518,Airport Transit Link,Expressway,1,Wednesday,534.0,72.4,12.4,16.5,Rain,0
+SEG-1519,Interstate 80 Express,Highway,4,Sunday,612.0,83.1,10.8,11.5,Rain,0
+SEG-1520,Highway 101 Bay Corridor,Highway,18,Thursday,4800.0,46.3,62.2,69.4,Clear,0
+SEG-1521,Tech Innovation Blvd,Arterial,0,Friday,150.0,54.1,2.0,4.0,Clear,0
+SEG-1522,Highway 101 Bay Corridor,Highway,6,Monday,2512.0,95.0,11.2,28.1,Clear,0
+SEG-1523,Uptown Commercial Ave,Collector,8,Wednesday,2434.0,16.6,70.6,85.4,Overcast,1
+SEG-1524,Highway 101 Bay Corridor,Highway,10,Saturday,3052.0,72.5,27.5,34.5,Overcast,0
+SEG-1525,Highway 101 Bay Corridor,Highway,9,Saturday,3098.0,71.6,34.2,41.7,Overcast,0
+SEG-1526,Uptown Commercial Ave,Collector,22,Tuesday,1455.0,34.5,17.5,29.1,Clear,0
+SEG-1527,Harbor Industrial Parkway,Collector,21,Tuesday,1075.0,39.1,18.0,23.6,Clear,0
+SEG-1528,Central Metro Arterial,Arterial,4,Tuesday,274.0,40.6,9.0,7.3,Clear,0
+SEG-1529,Central Metro Arterial,Arterial,23,Thursday,1830.0,45.7,19.4,28.7,Clear,0
+SEG-1530,Tech Innovation Blvd,Arterial,10,Wednesday,1957.0,34.9,37.5,45.4,Overcast,0
+SEG-1531,Tech Innovation Blvd,Arterial,12,Tuesday,1844.0,38.0,35.5,41.9,Clear,0
+SEG-1532,Sunset Suburban Ring,Local,9,Tuesday,700.0,15.1,56.7,55.3,Overcast,0
+SEG-1533,Highway 101 Bay Corridor,Highway,17,Monday,4432.0,41.5,61.7,69.2,Clear,0
+SEG-1534,Tech Innovation Blvd,Arterial,14,Thursday,2081.0,42.7,34.2,43.5,Clear,0
+SEG-1535,Sunset Suburban Ring,Local,9,Sunday,377.0,42.5,11.4,24.6,Clear,0
+SEG-1536,Airport Transit Link,Expressway,19,Friday,3055.0,19.2,74.0,70.2,Clear,1
+SEG-1537,Uptown Commercial Ave,Collector,15,Sunday,1651.0,25.6,40.0,44.3,Clear,0
+SEG-1538,Central Metro Arterial,Arterial,0,Saturday,936.0,52.6,3.0,16.4,Overcast,0
+SEG-1539,Uptown Commercial Ave,Collector,0,Monday,498.0,37.2,6.8,10.9,Overcast,0
+SEG-1540,Harbor Industrial Parkway,Collector,9,Tuesday,1850.0,23.1,53.7,64.8,Clear,0
+SEG-1541,Airport Transit Link,Expressway,5,Sunday,470.0,80.4,5.4,9.2,Clear,0
+SEG-1542,Uptown Commercial Ave,Collector,12,Sunday,1954.0,31.8,32.6,47.8,Clear,0
+SEG-1543,Interstate 80 Express,Highway,20,Sunday,2620.0,87.2,26.8,37.7,Clear,0
+SEG-1544,Interstate 80 Express,Highway,15,Monday,2589.0,81.1,26.7,38.8,Clear,0
+SEG-1545,Sunset Suburban Ring,Local,15,Saturday,632.0,27.8,38.1,39.2,Clear,0
+SEG-1546,Tech Innovation Blvd,Arterial,7,Sunday,1776.0,48.2,21.3,35.6,Overcast,0
+SEG-1547,Central Metro Arterial,Arterial,0,Sunday,468.0,52.5,2.9,11.0,Clear,0
+SEG-1548,Highway 101 Bay Corridor,Highway,17,Sunday,2505.0,90.8,14.4,28.1,Overcast,0
+SEG-1549,Airport Transit Link,Expressway,19,Friday,3721.0,39.8,60.5,71.0,Clear,0
+SEG-1550,Tech Innovation Blvd,Arterial,3,Wednesday,509.0,57.9,2.0,7.4,Clear,0
+SEG-1551,Central Metro Arterial,Arterial,4,Wednesday,828.0,37.9,23.1,23.8,Clear,1
+SEG-1552,Sunset Suburban Ring,Local,14,Tuesday,884.0,26.9,42.1,51.9,Rain,0
+SEG-1553,Sunset Suburban Ring,Local,21,Thursday,514.0,41.2,11.0,25.8,Clear,0
+SEG-1554,Tech Innovation Blvd,Arterial,4,Friday,287.0,49.8,2.0,4.7,Clear,0
+SEG-1555,Tech Innovation Blvd,Arterial,18,Monday,2518.0,24.1,58.5,63.8,Clear,0
+SEG-1556,Central Metro Arterial,Arterial,19,Tuesday,3621.0,21.3,63.2,71.6,Clear,0
+SEG-1557,Interstate 80 Express,Highway,9,Tuesday,3561.0,37.6,63.6,69.8,Rain,0
+SEG-1558,Harbor Industrial Parkway,Collector,23,Tuesday,1269.0,40.9,16.7,32.6,Clear,0
+SEG-1559,Central Metro Arterial,Arterial,17,Saturday,1752.0,26.9,42.7,42.1,Clear,1
+SEG-1560,Highway 101 Bay Corridor,Highway,11,Friday,3404.0,76.7,29.9,44.4,Clear,0
+SEG-1561,Interstate 80 Express,Highway,8,Tuesday,3979.0,59.4,51.8,66.8,Clear,0
+SEG-1562,Uptown Commercial Ave,Collector,11,Sunday,1886.0,22.5,43.8,52.9,Rain,0
+SEG-1563,Airport Transit Link,Expressway,6,Sunday,2578.0,66.4,34.4,43.8,Clear,0
+SEG-1564,Highway 101 Bay Corridor,Highway,11,Monday,3457.0,77.0,29.8,39.3,Overcast,0
+SEG-1565,Harbor Industrial Parkway,Collector,17,Wednesday,2289.0,24.0,60.2,66.2,Overcast,0
+SEG-1566,Sunset Suburban Ring,Local,17,Tuesday,908.0,18.3,57.7,62.1,Overcast,0
+SEG-1567,Sunset Suburban Ring,Local,4,Tuesday,269.0,38.6,11.9,11.6,Clear,0
+SEG-1568,Central Metro Arterial,Arterial,17,Tuesday,2912.0,30.9,50.2,63.6,Clear,0
+SEG-1569,Highway 101 Bay Corridor,Highway,5,Tuesday,885.0,85.2,7.9,10.7,Overcast,0
+SEG-1570,Harbor Industrial Parkway,Collector,21,Saturday,1229.0,45.3,10.8,26.6,Clear,0
+SEG-1571,Uptown Commercial Ave,Collector,8,Sunday,1463.0,27.5,32.1,44.3,Clear,0
+SEG-1572,Central Metro Arterial,Arterial,2,Tuesday,786.0,38.9,21.2,19.0,Rain,0
+SEG-1573,Uptown Commercial Ave,Collector,17,Thursday,2224.0,25.4,45.6,62.3,Clear,0
+SEG-1574,Tech Innovation Blvd,Arterial,9,Monday,2966.0,29.3,59.1,69.8,Clear,0
+SEG-1575,Highway 101 Bay Corridor,Highway,2,Tuesday,411.0,93.4,2.0,7.8,Overcast,0
+SEG-1576,Interstate 80 Express,Highway,0,Friday,937.0,98.9,2.1,9.5,Overcast,0
+SEG-1577,Uptown Commercial Ave,Collector,11,Tuesday,1686.0,32.0,25.8,42.1,Clear,0
+SEG-1578,Interstate 80 Express,Highway,6,Saturday,1990.0,95.1,13.4,26.5,Clear,0
+SEG-1579,Highway 101 Bay Corridor,Highway,4,Thursday,934.0,88.3,8.9,14.5,Clear,0
+SEG-1580,Harbor Industrial Parkway,Collector,8,Monday,2382.0,21.8,63.7,74.0,Overcast,0
+SEG-1581,Highway 101 Bay Corridor,Highway,21,Sunday,2876.0,76.3,27.9,36.9,Clear,0
+SEG-1582,Highway 101 Bay Corridor,Highway,19,Thursday,4307.0,57.4,48.6,59.2,Overcast,0
+SEG-1583,Uptown Commercial Ave,Collector,17,Friday,2366.0,14.5,69.0,74.4,Rain,0
+SEG-1584,Highway 101 Bay Corridor,Highway,6,Thursday,2498.0,87.1,16.9,27.2,Clear,0
+SEG-1585,Interstate 80 Express,Highway,0,Monday,751.0,87.4,11.6,13.2,Clear,0
+SEG-1586,Sunset Suburban Ring,Local,12,Tuesday,571.0,29.6,29.1,30.1,Clear,0
+SEG-1587,Central Metro Arterial,Arterial,23,Friday,2032.0,38.4,29.0,40.9,Clear,0
+SEG-1588,Interstate 80 Express,Highway,15,Sunday,2533.0,64.6,34.1,38.4,Clear,0
+SEG-1589,Interstate 80 Express,Highway,5,Wednesday,898.0,93.8,8.4,10.1,Overcast,0
+SEG-1590,Interstate 80 Express,Highway,4,Saturday,824.0,87.0,11.8,16.2,Rain,0
+SEG-1591,Uptown Commercial Ave,Collector,23,Wednesday,978.0,31.6,20.3,26.1,Rain,0
+SEG-1592,Sunset Suburban Ring,Local,19,Tuesday,989.0,18.5,59.2,63.1,Clear,0
+SEG-1593,Tech Innovation Blvd,Arterial,2,Wednesday,444.0,43.0,13.6,13.4,Fog,0
+SEG-1594,Airport Transit Link,Expressway,4,Sunday,793.0,75.0,11.1,13.9,Rain,0
+SEG-1595,Central Metro Arterial,Arterial,18,Wednesday,3331.0,28.4,55.2,68.3,Clear,0
+SEG-1596,Interstate 80 Express,Highway,2,Wednesday,428.0,96.5,2.5,4.9,Clear,0
+SEG-1597,Tech Innovation Blvd,Arterial,17,Sunday,1545.0,51.9,15.0,29.1,Clear,0
+SEG-1598,Sunset Suburban Ring,Local,16,Wednesday,935.0,26.1,52.6,60.7,Clear,0
+SEG-1599,Sunset Suburban Ring,Local,6,Saturday,581.0,20.2,53.1,51.0,Fog,1
+SEG-1600,Highway 101 Bay Corridor,Highway,7,Sunday,2132.0,91.7,10.4,19.8,Clear,0
+SEG-1601,Tech Innovation Blvd,Arterial,9,Thursday,3068.0,26.0,62.5,74.6,Clear,0
+SEG-1602,Sunset Suburban Ring,Local,6,Sunday,554.0,35.9,21.1,33.0,Clear,0
+SEG-1603,Highway 101 Bay Corridor,Highway,5,Thursday,890.0,90.0,2.2,4.0,Clear,0
+SEG-1604,Highway 101 Bay Corridor,Highway,19,Wednesday,4800.0,38.7,69.3,74.3,Clear,0
+SEG-1605,Sunset Suburban Ring,Local,12,Tuesday,672.0,36.1,23.0,37.2,Clear,0
+SEG-1606,Central Metro Arterial,Arterial,20,Wednesday,1399.0,48.7,12.7,24.2,Overcast,0
+SEG-1607,Central Metro Arterial,Arterial,7,Thursday,3463.0,21.6,65.8,71.8,Clear,0
+SEG-1608,Tech Innovation Blvd,Arterial,0,Sunday,594.0,52.1,2.0,8.5,Overcast,0
+SEG-1609,Sunset Suburban Ring,Local,4,Monday,165.0,36.4,8.9,7.7,Clear,0
+SEG-1610,Tech Innovation Blvd,Arterial,17,Monday,2907.0,24.6,63.2,72.5,Clear,0
+SEG-1611,Harbor Industrial Parkway,Collector,5,Saturday,508.0,25.1,35.3,31.7,Clear,1
+SEG-1612,Airport Transit Link,Expressway,8,Monday,3624.0,30.3,74.0,81.4,Rain,0
+SEG-1613,Interstate 80 Express,Highway,14,Saturday,2518.0,83.5,26.7,37.7,Clear,0
+SEG-1614,Tech Innovation Blvd,Arterial,6,Friday,1283.0,47.2,14.3,21.4,Clear,0
+SEG-1615,Airport Transit Link,Expressway,19,Sunday,2237.0,67.2,28.3,40.3,Clear,0
+SEG-1616,Harbor Industrial Parkway,Collector,15,Tuesday,1543.0,35.5,27.4,43.0,Clear,0
+SEG-1617,Airport Transit Link,Expressway,17,Thursday,3432.0,41.5,62.8,67.5,Overcast,0
+SEG-1618,Uptown Commercial Ave,Collector,20,Friday,1564.0,40.6,12.1,38.3,Overcast,0
+SEG-1619,Harbor Industrial Parkway,Collector,2,Saturday,423.0,39.2,11.9,12.3,Overcast,0
+SEG-1620,Highway 101 Bay Corridor,Highway,11,Saturday,3003.0,72.0,32.1,42.9,Clear,0
+SEG-1621,Interstate 80 Express,Highway,15,Wednesday,2632.0,51.9,46.8,48.8,Clear,1
+SEG-1622,Uptown Commercial Ave,Collector,9,Thursday,2528.0,21.0,55.3,72.8,Overcast,0
+SEG-1623,Interstate 80 Express,Highway,4,Tuesday,844.0,92.3,4.0,11.0,Clear,0
+SEG-1624,Airport Transit Link,Expressway,5,Wednesday,1010.0,82.4,7.0,12.0,Overcast,0
+SEG-1625,Tech Innovation Blvd,Arterial,18,Saturday,1760.0,42.4,25.9,34.5,Clear,0
+SEG-1626,Harbor Industrial Parkway,Collector,23,Sunday,1114.0,43.2,14.9,27.0,Clear,0
+SEG-1627,Sunset Suburban Ring,Local,17,Friday,1267.0,12.0,82.8,90.3,Clear,1
+SEG-1628,Sunset Suburban Ring,Local,7,Saturday,479.0,33.9,16.1,23.1,Overcast,0
+SEG-1629,Central Metro Arterial,Arterial,6,Monday,1796.0,43.2,21.9,32.2,Clear,0
+SEG-1630,Uptown Commercial Ave,Collector,6,Sunday,1331.0,35.1,14.8,31.2,Clear,0
+SEG-1631,Airport Transit Link,Expressway,22,Wednesday,2276.0,67.5,28.3,40.3,Overcast,0
+SEG-1632,Highway 101 Bay Corridor,Highway,6,Sunday,2731.0,89.9,18.4,32.4,Clear,0
+SEG-1633,Airport Transit Link,Expressway,11,Thursday,2736.0,61.3,35.4,49.6,Overcast,0
+SEG-1634,Airport Transit Link,Expressway,10,Sunday,2495.0,68.2,29.7,39.2,Overcast,0
+SEG-1635,Highway 101 Bay Corridor,Highway,10,Monday,2861.0,74.9,27.4,37.3,Clear,0
+SEG-1636,Interstate 80 Express,Highway,21,Friday,1992.0,91.5,15.4,21.1,Clear,0
+SEG-1637,Interstate 80 Express,Highway,22,Sunday,2552.0,70.8,30.6,39.9,Clear,0
+SEG-1638,Sunset Suburban Ring,Local,2,Monday,150.0,40.3,3.5,10.4,,0
+SEG-1639,Airport Transit Link,Expressway,12,Wednesday,2473.0,75.7,25.8,41.8,Clear,0
+SEG-1640,Sunset Suburban Ring,Local,16,Friday,1022.0,24.9,52.7,64.8,Clear,0
+SEG-1641,Central Metro Arterial,Arterial,22,Sunday,1415.0,55.1,11.1,25.9,Clear,0
+SEG-1642,Uptown Commercial Ave,Collector,7,Wednesday,2454.0,17.2,64.5,75.2,Clear,0
+SEG-1643,Tech Innovation Blvd,Arterial,9,Tuesday,2522.0,32.7,52.7,66.4,Overcast,0
+SEG-1644,Uptown Commercial Ave,Collector,8,Tuesday,2576.0,20.9,59.7,74.9,Clear,0
+SEG-1645,Highway 101 Bay Corridor,Highway,5,Sunday,454.0,74.4,12.4,14.0,Rain,0
+SEG-1646,Central Metro Arterial,Arterial,6,Saturday,1891.0,46.2,19.8,34.6,Clear,0
+SEG-1647,Airport Transit Link,Expressway,23,Thursday,1630.0,77.0,15.2,21.9,Clear,0
+SEG-1648,Sunset Suburban Ring,Local,22,Friday,724.0,37.7,31.1,45.9,Clear,0
+SEG-1649,Harbor Industrial Parkway,Collector,6,Tuesday,870.0,44.3,11.8,23.7,Clear,0
+SEG-1650,Sunset Suburban Ring,Local,9,Tuesday,1218.0,12.5,69.9,74.2,Overcast,0
+SEG-1651,Highway 101 Bay Corridor,Highway,13,Monday,2677.0,85.9,14.5,23.0,Overcast,0
+SEG-1652,Highway 101 Bay Corridor,Highway,11,Tuesday,2427.0,78.0,23.2,34.0,Rain,0
+SEG-1653,Airport Transit Link,Expressway,6,Wednesday,2181.0,53.0,36.9,40.5,Overcast,1
+SEG-1654,Airport Transit Link,Expressway,3,Friday,591.0,33.2,41.7,28.0,Rain,1
+SEG-1655,Airport Transit Link,Expressway,8,Thursday,3803.0,36.7,62.5,70.9,Overcast,0
+SEG-1656,Highway 101 Bay Corridor,Highway,8,Thursday,4800.0,52.5,57.1,67.3,Clear,0
+SEG-1657,Tech Innovation Blvd,Arterial,15,Friday,1423.0,43.8,26.8,29.8,Rain,0
+SEG-1658,Highway 101 Bay Corridor,Highway,9,Tuesday,4430.0,51.9,57.6,66.2,Clear,0
+SEG-1659,Uptown Commercial Ave,Collector,9,Saturday,1260.0,16.8,47.1,43.2,Clear,1
+SEG-1660,Highway 101 Bay Corridor,Highway,12,Saturday,3138.0,70.0,29.4,38.2,Clear,0
+SEG-1661,Central Metro Arterial,Arterial,17,Friday,3234.0,18.3,72.8,79.3,Clear,1
+SEG-1662,Harbor Industrial Parkway,Collector,22,Thursday,1485.0,34.6,29.0,42.3,Clear,0
+SEG-1663,Airport Transit Link,Expressway,7,Tuesday,4151.0,43.5,57.7,72.3,Clear,0
+SEG-1664,Tech Innovation Blvd,Arterial,5,Saturday,608.0,51.4,7.1,15.5,Rain,0
+SEG-1665,Sunset Suburban Ring,Local,7,Wednesday,948.0,12.0,71.9,73.1,Clear,1
+SEG-1666,Central Metro Arterial,Arterial,8,Friday,2918.0,22.7,60.3,67.0,Overcast,0
+SEG-1667,Airport Transit Link,Expressway,8,Monday,3472.0,44.9,51.9,55.7,Clear,0
+SEG-1668,Central Metro Arterial,Arterial,17,Thursday,3333.0,22.2,62.3,66.4,Clear,0
+SEG-1669,Uptown Commercial Ave,Collector,21,Monday,1042.0,41.3,9.7,25.5,Clear,0
+SEG-1670,Tech Innovation Blvd,Arterial,7,Saturday,1261.0,47.1,16.7,22.3,Clear,0
+SEG-1671,Interstate 80 Express,Highway,3,Thursday,1016.0,102.6,2.7,11.8,Clear,0
+SEG-1672,Tech Innovation Blvd,Arterial,20,Tuesday,1788.0,49.3,25.5,40.7,Clear,0
+SEG-1673,Harbor Industrial Parkway,Collector,12,Saturday,1198.0,12.0,57.0,52.9,Rain,1
+SEG-1674,Airport Transit Link,Expressway,16,Sunday,1794.0,83.6,13.6,27.3,Clear,0
+SEG-1675,Airport Transit Link,Expressway,14,Sunday,2541.0,69.9,25.7,40.5,Clear,0
+SEG-1676,Tech Innovation Blvd,Arterial,21,Monday,1518.0,48.0,20.2,30.8,Overcast,0
+SEG-1677,Airport Transit Link,Expressway,7,Saturday,1724.0,79.5,15.5,25.1,Clear,0
+SEG-1678,Interstate 80 Express,Highway,17,Wednesday,3485.0,58.7,52.8,59.0,Overcast,0
+SEG-1679,Uptown Commercial Ave,Collector,2,Sunday,443.0,33.8,5.9,7.9,Clear,0
+SEG-1680,Uptown Commercial Ave,Collector,20,Monday,1570.0,23.4,42.5,45.8,Rain,0
+SEG-1681,Uptown Commercial Ave,Collector,12,Sunday,1500.0,27.6,37.5,43.1,Clear,0
+SEG-1682,Tech Innovation Blvd,Arterial,10,Thursday,1571.0,48.0,27.3,33.8,Rain,0
+SEG-1683,Interstate 80 Express,Highway,17,Saturday,2386.0,80.2,28.5,35.9,Clear,0
+SEG-1684,Central Metro Arterial,Arterial,22,Monday,1987.0,35.8,35.6,41.4,Clear,0
+SEG-1685,Tech Innovation Blvd,Arterial,15,Saturday,1563.0,37.5,32.7,36.6,Clear,0
+SEG-1686,Uptown Commercial Ave,Collector,3,Saturday,571.0,39.6,5.6,17.0,Clear,0
+SEG-1687,Uptown Commercial Ave,Collector,19,Sunday,1078.0,44.8,2.8,24.3,Clear,0
+SEG-1688,Sunset Suburban Ring,Local,0,Monday,236.0,43.5,2.0,11.1,Clear,0
+SEG-1689,Interstate 80 Express,Highway,9,Tuesday,4117.0,48.5,63.1,74.5,Rain,0
+SEG-1690,Tech Innovation Blvd,Arterial,14,Monday,1591.0,57.4,14.9,30.6,Clear,0
+SEG-1691,Highway 101 Bay Corridor,Highway,0,Saturday,1183.0,83.8,10.1,11.0,Clear,0
+SEG-1692,Sunset Suburban Ring,Local,21,Tuesday,814.0,29.9,40.8,57.1,Rain,0
+SEG-1693,Highway 101 Bay Corridor,Highway,2,Sunday,1030.0,92.0,6.0,10.8,Overcast,0
+SEG-1694,Harbor Industrial Parkway,Collector,18,Wednesday,1959.0,18.7,58.0,60.2,Clear,0
+SEG-1695,Sunset Suburban Ring,Local,20,Wednesday,639.0,39.8,17.9,34.5,Clear,0
+SEG-1696,Central Metro Arterial,Arterial,23,Tuesday,1479.0,38.9,20.2,28.4,Rain,0
+SEG-1697,Interstate 80 Express,Highway,2,Sunday,728.0,97.8,4.4,10.0,Clear,0
+SEG-1698,Tech Innovation Blvd,Arterial,8,Friday,2990.0,25.9,60.1,70.9,Overcast,0
+SEG-1699,Uptown Commercial Ave,Collector,18,Sunday,1532.0,33.6,23.8,38.7,Clear,0
+SEG-1700,Uptown Commercial Ave,Collector,13,Friday,1679.0,29.9,30.5,43.8,Clear,0
+SEG-1701,Uptown Commercial Ave,Collector,2,Saturday,442.0,28.1,19.6,16.3,Rain,0
+SEG-1702,Highway 101 Bay Corridor,Highway,0,Thursday,711.0,81.4,10.3,10.7,Rain,0
+SEG-1703,Uptown Commercial Ave,Collector,15,Friday,1299.0,31.7,18.0,23.8,Clear,0
+SEG-1704,Airport Transit Link,Expressway,3,Tuesday,382.0,54.4,27.4,19.8,Clear,1
+SEG-1705,Interstate 80 Express,Highway,16,Monday,3990.0,27.0,72.3,77.4,Rain,0
+SEG-1706,Airport Transit Link,Expressway,17,Tuesday,3548.0,46.7,53.1,66.0,Overcast,0
+SEG-1707,Highway 101 Bay Corridor,Highway,3,Monday,810.0,85.1,7.0,9.4,Clear,0
+SEG-1708,Interstate 80 Express,Highway,23,Monday,2096.0,95.6,12.8,26.1,Clear,0
+SEG-1709,Highway 101 Bay Corridor,Highway,11,Saturday,2859.0,90.1,12.7,29.9,Clear,0
+SEG-1710,Central Metro Arterial,Arterial,2,Monday,990.0,50.7,6.3,14.1,Clear,0
+SEG-1711,Highway 101 Bay Corridor,Highway,21,Sunday,2609.0,79.7,19.8,27.9,Rain,0
+SEG-1712,Airport Transit Link,Expressway,8,Friday,3540.0,19.4,74.8,75.8,Clear,1
+SEG-1713,Harbor Industrial Parkway,Collector,19,Friday,2292.0,14.7,74.0,84.8,Clear,1
+SEG-1714,Airport Transit Link,Expressway,15,Saturday,2517.0,72.6,26.6,36.9,Clear,0
+SEG-1715,Interstate 80 Express,Highway,11,Sunday,2510.0,93.4,17.3,33.4,Clear,0
+SEG-1716,Interstate 80 Express,Highway,20,Wednesday,1865.0,97.2,14.4,22.3,Clear,0
+SEG-1717,Airport Transit Link,Expressway,19,Wednesday,3689.0,50.8,54.4,70.0,Clear,0
+SEG-1718,Interstate 80 Express,Highway,2,Wednesday,687.0,91.9,7.0,5.6,Clear,0
+SEG-1719,Central Metro Arterial,Arterial,22,Friday,1977.0,39.6,33.2,38.7,Overcast,0
+SEG-1720,Airport Transit Link,Expressway,14,Sunday,2136.0,74.1,20.7,32.4,Clear,0
+SEG-1721,Harbor Industrial Parkway,Collector,11,Monday,1277.0,36.4,24.6,32.6,Clear,0
+SEG-1722,Airport Transit Link,Expressway,19,Tuesday,3040.0,38.4,57.6,63.5,Clear,0
+SEG-1723,Sunset Suburban Ring,Local,4,Wednesday,162.0,37.0,7.4,9.9,Rain,0
+SEG-1724,Airport Transit Link,Expressway,6,Monday,2278.0,71.0,26.4,38.5,Rain,0
+SEG-1725,Tech Innovation Blvd,Arterial,6,Saturday,1312.0,40.4,22.5,23.3,Rain,0
+SEG-1726,Highway 101 Bay Corridor,Highway,11,Monday,3228.0,72.1,31.5,46.8,Overcast,0
+SEG-1727,Interstate 80 Express,Highway,17,Monday,3416.0,48.5,58.2,62.8,Clear,0
+SEG-1728,Uptown Commercial Ave,Collector,19,Tuesday,2458.0,21.7,59.7,74.1,Overcast,0
+SEG-1729,Interstate 80 Express,Highway,5,Thursday,1255.0,91.6,12.5,22.0,Overcast,0
+SEG-1730,Airport Transit Link,Expressway,0,Wednesday,987.0,84.3,4.6,15.0,Clear,0
+SEG-1731,Uptown Commercial Ave,Collector,11,Wednesday,1649.0,23.8,40.9,48.9,Rain,0
+SEG-1732,Sunset Suburban Ring,Local,3,Wednesday,150.0,40.1,9.9,13.9,Rain,0
+SEG-1733,Central Metro Arterial,Arterial,16,Thursday,3189.0,29.0,56.8,68.2,Overcast,0
+SEG-1734,Highway 101 Bay Corridor,Highway,16,Tuesday,4483.0,37.8,64.0,70.9,Rain,0
+SEG-1735,Uptown Commercial Ave,Collector,0,Sunday,165.0,40.0,2.0,4.0,Clear,0
+SEG-1736,Uptown Commercial Ave,Collector,15,Monday,1222.0,36.5,13.3,29.0,Overcast,0
+SEG-1737,Tech Innovation Blvd,Arterial,8,Wednesday,2860.0,25.5,66.5,73.1,Overcast,0
+SEG-1738,Interstate 80 Express,Highway,23,Tuesday,2546.0,57.7,40.1,42.9,Rain,0
+SEG-1739,Harbor Industrial Parkway,Collector,16,Sunday,1286.0,45.3,15.4,32.5,Clear,0
+SEG-1740,Tech Innovation Blvd,Arterial,3,Friday,626.0,50.5,10.7,11.6,Overcast,0
+SEG-1741,Interstate 80 Express,Highway,5,Monday,1156.0,93.4,6.5,13.9,Clear,0
+SEG-1742,Sunset Suburban Ring,Local,10,Tuesday,1033.0,35.2,36.0,56.7,Clear,0
+SEG-1743,Central Metro Arterial,Arterial,10,Monday,2011.0,38.3,31.0,39.0,Clear,0
+SEG-1744,Central Metro Arterial,Arterial,18,Friday,2736.0,35.3,43.0,58.3,Overcast,0
+SEG-1745,Tech Innovation Blvd,Arterial,18,Sunday,1402.0,32.8,37.4,35.0,Overcast,1
+SEG-1746,Airport Transit Link,Expressway,18,Tuesday,3278.0,,50.1,64.0,,0
+SEG-1747,Central Metro Arterial,Arterial,10,Thursday,1795.0,48.8,14.3,31.4,Clear,0
+SEG-1748,Harbor Industrial Parkway,Collector,23,Thursday,1347.0,39.0,20.5,34.1,Clear,0
+SEG-1749,Highway 101 Bay Corridor,Highway,9,Monday,4800.0,49.3,60.1,71.9,Clear,0
+SEG-1750,Highway 101 Bay Corridor,Highway,5,Tuesday,805.0,87.3,10.9,12.0,Clear,0
+SEG-1751,Sunset Suburban Ring,Local,21,Sunday,680.0,39.7,18.7,34.2,Overcast,0
+SEG-1752,Central Metro Arterial,Arterial,22,Tuesday,1672.0,47.0,19.6,31.4,Clear,0
+SEG-1753,Central Metro Arterial,Arterial,13,Saturday,2049.0,42.3,26.4,36.2,Clear,0
+SEG-1754,Interstate 80 Express,Highway,15,Sunday,2511.0,83.4,23.6,34.2,Clear,0
+SEG-1755,Airport Transit Link,Expressway,1,Monday,793.0,82.1,9.2,12.5,Overcast,0
+SEG-1756,Central Metro Arterial,Arterial,11,Wednesday,1852.0,36.5,30.9,38.6,Clear,0
+SEG-1757,Uptown Commercial Ave,Collector,0,Wednesday,437.0,39.7,2.0,8.0,Clear,0
+SEG-1758,Highway 101 Bay Corridor,Highway,23,Sunday,2968.0,74.7,31.3,38.4,Overcast,0
+SEG-1759,Airport Transit Link,Expressway,1,Tuesday,337.0,83.6,2.0,4.0,Clear,0
+SEG-1760,Uptown Commercial Ave,Collector,17,Wednesday,2168.0,18.7,58.2,68.4,Overcast,0
+SEG-1761,Highway 101 Bay Corridor,Highway,16,Thursday,4800.0,47.1,62.5,73.7,Clear,0
+SEG-1762,Central Metro Arterial,Arterial,22,Wednesday,1964.0,47.9,22.9,38.0,Clear,0
+SEG-1763,Central Metro Arterial,Arterial,18,Sunday,1229.0,44.4,17.5,21.9,Overcast,0
+SEG-1764,Central Metro Arterial,Arterial,2,Sunday,405.0,36.2,20.3,20.7,Clear,1
+SEG-1765,Tech Innovation Blvd,Arterial,21,Thursday,1652.0,49.1,20.5,28.4,Clear,0
+SEG-1766,Tech Innovation Blvd,Arterial,23,Sunday,1320.0,55.8,6.3,18.9,Clear,0
+SEG-1767,Highway 101 Bay Corridor,Highway,21,Monday,3048.0,80.2,29.5,42.2,Clear,0
+SEG-1768,Harbor Industrial Parkway,Collector,15,Tuesday,1338.0,42.1,21.3,38.3,Rain,0
+SEG-1769,Airport Transit Link,Expressway,18,Friday,3688.0,41.0,59.2,69.9,Clear,0
+SEG-1770,Central Metro Arterial,Arterial,7,Thursday,3498.0,25.1,62.1,73.0,Clear,0
+SEG-1771,Central Metro Arterial,Arterial,1,Tuesday,585.0,47.7,5.0,10.5,Clear,0
+SEG-1772,Highway 101 Bay Corridor,Highway,10,Friday,2949.0,61.8,40.1,45.6,Fog,0
+SEG-1773,Tech Innovation Blvd,Arterial,2,Thursday,442.0,59.7,2.0,8.2,Overcast,0
+SEG-1774,Central Metro Arterial,Arterial,19,Tuesday,2945.0,27.1,57.3,64.4,Clear,0
+SEG-1775,Highway 101 Bay Corridor,Highway,18,Tuesday,4800.0,43.3,62.9,71.8,Overcast,0
+SEG-1776,Interstate 80 Express,Highway,17,Tuesday,3451.0,38.4,65.7,68.5,Overcast,0
+SEG-1777,Interstate 80 Express,Highway,18,Saturday,,90.5,15.2,21.8,Clear,0
+SEG-1778,Uptown Commercial Ave,Collector,1,Wednesday,458.0,38.4,8.2,13.8,Clear,0
+SEG-1779,Uptown Commercial Ave,Collector,9,Friday,2509.0,,65.6,70.8,Rain,0
+SEG-1780,Harbor Industrial Parkway,Collector,9,Thursday,1825.0,24.6,52.6,58.9,Clear,0
+SEG-1781,Tech Innovation Blvd,Arterial,0,Thursday,353.0,53.5,4.6,10.8,Overcast,0
+SEG-1782,Airport Transit Link,Expressway,17,Saturday,1307.0,79.3,11.7,16.6,Clear,0
+SEG-1783,Central Metro Arterial,Arterial,15,Saturday,2167.0,38.3,31.2,42.8,Clear,0
+SEG-1784,Highway 101 Bay Corridor,Highway,5,Friday,766.0,84.6,9.6,6.6,Clear,0
+SEG-1785,Sunset Suburban Ring,Local,9,Friday,1078.0,22.0,54.4,68.0,Overcast,0
+SEG-1786,Airport Transit Link,Expressway,3,Wednesday,441.0,75.7,9.1,13.9,Rain,0
+SEG-1787,Airport Transit Link,Expressway,18,Tuesday,3993.0,32.6,74.2,82.0,Clear,0
+SEG-1788,Highway 101 Bay Corridor,Highway,7,Wednesday,4377.0,54.4,50.1,60.9,Clear,0
+SEG-1789,Airport Transit Link,Expressway,9,Sunday,1772.0,66.0,23.4,32.5,Rain,0
+SEG-1790,Airport Transit Link,Expressway,23,Wednesday,2332.0,32.6,57.0,52.7,Overcast,1
+SEG-1791,Uptown Commercial Ave,Collector,9,Thursday,2431.0,20.8,60.6,75.1,Fog,0
+SEG-1792,Airport Transit Link,Expressway,21,Tuesday,1600.0,82.6,9.5,23.6,Clear,0
+SEG-1793,Harbor Industrial Parkway,Collector,19,Sunday,1061.0,38.6,17.9,26.7,Clear,0
+SEG-1794,Harbor Industrial Parkway,Collector,3,Saturday,472.0,40.7,6.9,14.5,Clear,0
+SEG-1795,Airport Transit Link,Expressway,4,Friday,,83.1,3.3,12.0,Clear,0
+SEG-1796,Sunset Suburban Ring,Local,15,Monday,618.0,30.1,35.9,40.4,Fog,0
+SEG-1797,Harbor Industrial Parkway,Collector,10,Sunday,1502.0,33.1,34.4,43.0,Clear,0
+SEG-1798,Central Metro Arterial,Arterial,10,Friday,1819.0,29.4,43.3,45.3,Clear,1
+SEG-1799,Central Metro Arterial,Arterial,7,Saturday,2034.0,38.1,27.6,37.1,Clear,0
+SEG-1800,Uptown Commercial Ave,Collector,18,Wednesday,2341.0,25.0,46.6,67.1,Clear,0
+SEG-1801,Airport Transit Link,Expressway,20,Wednesday,1998.0,75.6,16.4,29.1,Overcast,0
+SEG-1802,Airport Transit Link,Expressway,3,Wednesday,830.0,81.3,3.9,11.6,Clear,0
+SEG-1803,Sunset Suburban Ring,Local,10,Thursday,491.0,31.8,23.8,26.4,Rain,0
+SEG-1804,Interstate 80 Express,Highway,23,Monday,2398.0,57.5,45.7,46.7,Clear,1
+SEG-1805,Central Metro Arterial,Arterial,0,Friday,512.0,52.6,2.0,7.2,Clear,0
+SEG-1806,Central Metro Arterial,Arterial,6,Wednesday,1780.0,50.3,14.7,30.7,Clear,0
+SEG-1807,Sunset Suburban Ring,Local,12,Monday,535.0,37.9,21.0,29.7,Clear,0
+SEG-1808,Harbor Industrial Parkway,Collector,9,Sunday,1153.0,36.3,16.0,25.7,Clear,0
+SEG-1809,Central Metro Arterial,Arterial,11,Sunday,2305.0,44.5,28.6,41.0,Overcast,0
+SEG-1810,Tech Innovation Blvd,Arterial,13,Thursday,1522.0,27.5,43.5,42.0,Clear,1
+SEG-1811,Uptown Commercial Ave,Collector,21,Wednesday,1102.0,34.8,15.1,27.9,Clear,0
+SEG-1812,Tech Innovation Blvd,Arterial,14,Sunday,1770.0,40.3,34.1,42.8,Clear,0
+SEG-1813,Harbor Industrial Parkway,Collector,0,Tuesday,564.0,41.7,6.5,14.6,Overcast,0
+SEG-1814,Central Metro Arterial,Arterial,23,Monday,1875.0,53.6,12.8,32.3,Clear,0
+SEG-1815,Airport Transit Link,Expressway,6,Sunday,1467.0,76.8,11.2,17.9,Clear,0
+SEG-1816,Sunset Suburban Ring,Local,21,Monday,437.0,39.9,7.9,16.9,Overcast,0
+SEG-1817,Central Metro Arterial,Arterial,11,Friday,1921.0,46.3,16.8,31.7,Clear,0
+SEG-1818,Airport Transit Link,Expressway,0,Thursday,772.0,83.7,5.4,11.6,Clear,0
+SEG-1819,Central Metro Arterial,Arterial,5,Friday,976.0,47.5,3.5,15.0,Clear,0
+SEG-1820,Central Metro Arterial,Arterial,19,Sunday,1622.0,43.9,18.2,25.9,Overcast,0
+SEG-1821,Interstate 80 Express,Highway,3,Friday,1030.0,93.8,11.2,14.1,Overcast,0
+SEG-1822,Uptown Commercial Ave,Collector,13,Thursday,1557.0,24.1,40.5,43.1,Rain,0
+SEG-1823,Sunset Suburban Ring,Local,19,Sunday,354.0,46.2,3.0,21.4,Clear,0
+SEG-1824,Uptown Commercial Ave,Collector,9,Sunday,1408.0,35.7,20.5,34.3,Clear,0
+SEG-1825,Central Metro Arterial,Arterial,6,Friday,1584.0,37.0,23.4,26.7,Rain,0
+SEG-1826,Highway 101 Bay Corridor,Highway,13,Wednesday,2688.0,65.3,32.6,40.0,Fog,0
+SEG-1827,Tech Innovation Blvd,Arterial,16,Monday,3211.0,23.3,68.4,79.3,Clear,0
+SEG-1828,Uptown Commercial Ave,Collector,12,Wednesday,1143.0,30.0,21.5,25.8,Clear,0
+SEG-1829,Highway 101 Bay Corridor,Highway,22,Saturday,2285.0,92.9,14.6,28.0,Clear,0
+SEG-1830,Uptown Commercial Ave,Collector,22,Friday,1514.0,28.1,36.2,47.2,Clear,0
+SEG-1831,Airport Transit Link,Expressway,0,Thursday,913.0,79.1,7.8,14.8,Clear,0
+SEG-1832,Uptown Commercial Ave,Collector,7,Wednesday,2571.0,16.2,68.3,78.9,Clear,0
+SEG-1833,Central Metro Arterial,Arterial,14,Wednesday,1878.0,36.2,25.3,32.3,,0
+SEG-1834,Uptown Commercial Ave,Collector,0,Thursday,548.0,38.0,2.2,12.0,Clear,0
+SEG-1835,Tech Innovation Blvd,Arterial,19,Sunday,1577.0,48.4,16.3,29.5,Clear,0
+SEG-1836,Uptown Commercial Ave,Collector,1,Wednesday,365.0,42.4,2.0,7.0,Clear,0
+SEG-1837,Uptown Commercial Ave,Collector,16,Saturday,1449.0,30.4,24.4,31.6,Overcast,0
+SEG-1838,Interstate 80 Express,Highway,11,Tuesday,2679.0,80.5,30.8,43.1,Clear,0
+SEG-1839,Highway 101 Bay Corridor,Highway,21,Saturday,2527.0,95.9,12.4,28.9,Clear,0
+SEG-1840,Highway 101 Bay Corridor,Highway,11,Thursday,3386.0,74.9,36.9,49.3,Overcast,0
+SEG-1841,Sunset Suburban Ring,Local,23,Tuesday,612.0,34.3,22.9,30.2,Clear,0
+SEG-1842,Tech Innovation Blvd,Arterial,1,Monday,402.0,49.3,5.7,9.4,Clear,0
+SEG-1843,Tech Innovation Blvd,Arterial,19,Thursday,2307.0,17.3,63.8,65.5,Clear,1
+SEG-1844,Interstate 80 Express,Highway,21,Sunday,2250.0,97.1,12.9,28.9,Clear,0
+SEG-1845,Interstate 80 Express,Highway,14,Friday,2412.0,96.1,15.2,29.8,Overcast,0
+SEG-1846,Harbor Industrial Parkway,Collector,7,Saturday,1484.0,29.7,29.2,41.3,Clear,0
+SEG-1847,Central Metro Arterial,Arterial,20,Wednesday,1425.0,45.5,9.9,18.6,Overcast,0
+SEG-1848,Highway 101 Bay Corridor,Highway,19,Sunday,2560.0,78.7,26.7,37.1,Clear,0
+SEG-1849,Tech Innovation Blvd,Arterial,21,Saturday,1222.0,47.4,17.8,21.6,Overcast,0
+SEG-1850,Interstate 80 Express,Highway,0,Thursday,480.0,94.2,4.5,4.0,Clear,0
+SEG-1851,Sunset Suburban Ring,Local,7,Sunday,501.0,29.6,23.8,26.5,Rain,0
+SEG-1852,Tech Innovation Blvd,Arterial,23,Wednesday,1509.0,48.4,20.7,29.6,Clear,0
+SEG-1853,Interstate 80 Express,Highway,19,Friday,4329.0,41.8,67.0,76.1,Rain,0
+SEG-1854,Interstate 80 Express,Highway,23,Thursday,1979.0,95.8,11.2,22.1,Clear,0
+SEG-1855,Highway 101 Bay Corridor,Highway,7,Saturday,2925.0,49.0,46.4,47.9,Clear,1
+SEG-1856,Airport Transit Link,Expressway,11,Sunday,2459.0,59.4,35.3,44.6,Clear,0
+SEG-1857,Airport Transit Link,Expressway,9,Monday,4015.0,41.3,62.1,74.4,Clear,0
+SEG-1858,Tech Innovation Blvd,Arterial,1,Wednesday,294.0,39.7,16.4,9.9,Fog,0
+SEG-1859,Uptown Commercial Ave,Collector,11,Monday,1330.0,28.3,28.2,31.0,Clear,0
+SEG-1860,Tech Innovation Blvd,Arterial,8,Saturday,1681.0,38.2,32.4,47.1,Fog,0
+SEG-1861,Sunset Suburban Ring,Local,11,Monday,834.0,36.5,31.7,49.4,Overcast,0
+SEG-1862,Harbor Industrial Parkway,Collector,10,Thursday,1164.0,40.7,18.4,25.7,Clear,0
+SEG-1863,Tech Innovation Blvd,Arterial,14,Thursday,2174.0,39.3,36.2,43.9,Clear,0
+SEG-1864,Airport Transit Link,Expressway,22,Tuesday,1940.0,81.4,16.6,30.5,Clear,0
+SEG-1865,Tech Innovation Blvd,Arterial,14,Sunday,2177.0,44.8,28.9,46.0,Clear,0
+SEG-1866,Uptown Commercial Ave,Collector,16,Thursday,2202.0,13.2,68.0,67.0,Clear,0
+SEG-1867,Tech Innovation Blvd,Arterial,12,Wednesday,1613.0,46.2,27.9,38.4,Overcast,0
+SEG-1868,Airport Transit Link,Expressway,16,Wednesday,3192.0,40.9,58.2,62.7,Clear,0
+SEG-1869,Airport Transit Link,Expressway,16,Monday,3470.0,38.9,61.9,72.4,Rain,0
+SEG-1870,Interstate 80 Express,Highway,12,Saturday,2855.0,80.6,32.3,42.4,Clear,0
+SEG-1871,Tech Innovation Blvd,Arterial,18,Tuesday,2889.0,25.9,58.4,68.1,Rain,0
+SEG-1872,Central Metro Arterial,Arterial,8,Friday,2808.0,31.1,47.0,59.7,Clear,0
+SEG-1873,Harbor Industrial Parkway,Collector,17,Tuesday,1780.0,19.3,60.2,63.6,Clear,0
+SEG-1874,Central Metro Arterial,Arterial,17,Saturday,2005.0,43.4,26.8,39.0,Clear,0
+SEG-1875,Tech Innovation Blvd,Arterial,15,Sunday,2199.0,43.4,31.3,43.3,Overcast,0
+SEG-1876,Central Metro Arterial,Arterial,23,Sunday,1385.0,49.3,13.8,25.0,Overcast,0
+SEG-1877,Central Metro Arterial,Arterial,0,Sunday,426.0,55.0,2.0,7.0,Clear,0
+SEG-1878,Sunset Suburban Ring,Local,7,Sunday,702.0,36.1,25.8,38.6,Clear,0
+SEG-1879,Uptown Commercial Ave,Collector,9,Sunday,992.0,38.2,10.0,22.9,Clear,0
+SEG-1880,Airport Transit Link,Expressway,11,Sunday,2216.0,68.8,26.0,34.7,Clear,0
+SEG-1881,Airport Transit Link,Expressway,16,Sunday,2599.0,48.7,48.0,49.1,Rain,0
+SEG-1882,Tech Innovation Blvd,Arterial,9,Saturday,1445.0,56.1,12.7,27.0,Clear,0
+SEG-1883,Highway 101 Bay Corridor,Highway,4,Tuesday,713.0,83.9,4.4,10.8,Clear,0
+SEG-1884,Interstate 80 Express,Highway,9,Thursday,4180.0,52.2,55.2,66.3,Clear,0
+SEG-1885,Highway 101 Bay Corridor,Highway,8,Saturday,2341.0,91.0,10.8,24.1,Clear,0
+SEG-1886,Uptown Commercial Ave,Collector,13,Friday,1686.0,37.0,21.9,43.6,Clear,0
+SEG-1887,Sunset Suburban Ring,Local,1,Monday,216.0,46.4,2.0,10.3,Overcast,0
+SEG-1888,Harbor Industrial Parkway,Collector,23,Saturday,1292.0,39.2,24.1,37.7,Rain,0
+SEG-1889,Interstate 80 Express,Highway,0,Friday,776.0,88.3,8.5,12.1,Clear,0
+SEG-1890,Tech Innovation Blvd,Arterial,9,Wednesday,3020.0,16.3,68.0,68.8,Clear,0
+SEG-1891,Interstate 80 Express,Highway,9,Wednesday,3757.0,66.1,45.8,61.8,Clear,0
+SEG-1892,Airport Transit Link,Expressway,11,Tuesday,2625.0,66.1,29.5,40.3,Overcast,0
+SEG-1893,Interstate 80 Express,Highway,7,Thursday,3602.0,59.9,50.1,63.0,Clear,0
+SEG-1894,Harbor Industrial Parkway,Collector,19,Sunday,1147.0,39.7,21.1,28.7,Overcast,0
+SEG-1895,Airport Transit Link,Expressway,13,Tuesday,2666.0,65.2,29.1,44.4,Clear,0
+SEG-1896,Uptown Commercial Ave,Collector,3,Saturday,620.0,35.2,14.7,16.4,Rain,0
+SEG-1897,Uptown Commercial Ave,Collector,3,Tuesday,542.0,36.3,5.0,11.5,Clear,0
+SEG-1898,Uptown Commercial Ave,Collector,20,Wednesday,1075.0,41.6,7.9,23.6,Clear,0
+SEG-1899,Tech Innovation Blvd,Arterial,4,Saturday,703.0,60.8,2.0,9.8,Overcast,0
+SEG-1900,Central Metro Arterial,Arterial,21,Tuesday,1246.0,34.1,29.8,27.2,Fog,0
+SEG-1901,Sunset Suburban Ring,Local,4,Friday,150.0,44.6,2.0,9.0,Overcast,0
+SEG-1902,Interstate 80 Express,Highway,23,Wednesday,2447.0,76.5,28.8,39.4,Clear,0
+SEG-1903,Uptown Commercial Ave,Collector,22,Monday,1118.0,37.2,12.5,23.2,Clear,0
+SEG-1904,Uptown Commercial Ave,Collector,18,Monday,2532.0,18.0,67.8,77.4,Clear,0
+SEG-1905,Sunset Suburban Ring,Local,6,Tuesday,572.0,36.3,20.3,30.2,Clear,0
+SEG-1906,Tech Innovation Blvd,Arterial,16,Wednesday,2793.0,22.3,61.6,71.4,Clear,0
+SEG-1907,Uptown Commercial Ave,Collector,20,Friday,864.0,39.1,10.3,20.1,Clear,0
+SEG-1908,Tech Innovation Blvd,Arterial,23,Sunday,1174.0,53.9,7.6,21.0,Clear,0
+SEG-1909,Harbor Industrial Parkway,Collector,16,Friday,1840.0,27.1,47.8,59.0,Clear,0
+SEG-1910,Airport Transit Link,Expressway,2,Tuesday,735.0,82.8,4.8,6.1,Clear,0
+SEG-1911,Harbor Industrial Parkway,Collector,20,Thursday,1182.0,43.4,13.3,30.2,Clear,0
+SEG-1912,Central Metro Arterial,Arterial,21,Monday,1829.0,47.2,12.7,24.9,Clear,0
+SEG-1913,Uptown Commercial Ave,Collector,13,Sunday,1425.0,12.0,62.1,56.2,Fog,1
+SEG-1914,Sunset Suburban Ring,Local,23,Thursday,696.0,31.3,24.8,35.3,Clear,0
+SEG-1915,Interstate 80 Express,Highway,8,Saturday,2106.0,76.0,28.2,33.7,Rain,0
+SEG-1916,Uptown Commercial Ave,Collector,5,Wednesday,521.0,34.9,6.1,10.9,Overcast,0
+SEG-1917,Highway 101 Bay Corridor,Highway,8,Friday,4296.0,16.7,78.8,77.9,Overcast,1
+SEG-1918,Harbor Industrial Parkway,Collector,4,Monday,581.0,36.8,17.2,15.1,Clear,0
+SEG-1919,Tech Innovation Blvd,Arterial,16,Friday,2410.0,25.0,57.5,64.0,Rain,0
+SEG-1920,Airport Transit Link,Expressway,10,Thursday,2192.0,61.3,32.7,38.6,Clear,0
+SEG-1921,Airport Transit Link,Expressway,12,Thursday,,52.9,38.2,42.7,Fog,0
+SEG-1922,Harbor Industrial Parkway,Collector,8,Sunday,1132.0,27.7,34.7,37.1,Clear,1
+SEG-1923,Uptown Commercial Ave,Collector,21,Tuesday,1211.0,40.6,12.0,32.1,Clear,0
+SEG-1924,Airport Transit Link,Expressway,14,Thursday,2208.0,60.5,34.1,38.4,Clear,0
+SEG-1925,Central Metro Arterial,Arterial,14,Tuesday,1719.0,47.0,18.9,30.8,Rain,0
+SEG-1926,Harbor Industrial Parkway,Collector,9,Wednesday,2097.0,19.3,63.8,66.4,Clear,0
+SEG-1927,Sunset Suburban Ring,Local,5,Tuesday,150.0,39.9,2.0,5.9,Clear,0
+SEG-1928,Interstate 80 Express,Highway,3,Sunday,901.0,93.4,7.2,11.9,Overcast,0
+SEG-1929,Airport Transit Link,Expressway,23,Friday,2455.0,54.0,41.0,45.8,Rain,0
+SEG-1930,Airport Transit Link,Expressway,14,Wednesday,2391.0,55.6,35.9,42.1,Clear,0
+SEG-1931,Central Metro Arterial,Arterial,4,Tuesday,510.0,46.8,4.9,8.4,Clear,0
+SEG-1932,Interstate 80 Express,Highway,7,Tuesday,3677.0,37.3,62.0,70.1,Clear,0
+SEG-1933,Interstate 80 Express,Highway,7,Thursday,3998.0,57.4,56.9,69.3,Clear,0
+SEG-1934,Airport Transit Link,Expressway,8,Tuesday,3866.0,28.3,76.6,76.7,Rain,0
+SEG-1935,Central Metro Arterial,Arterial,12,Wednesday,1847.0,39.9,30.8,37.4,Clear,0
+SEG-1936,Highway 101 Bay Corridor,Highway,17,Saturday,2305.0,59.1,36.1,35.2,Clear,1
+SEG-1937,Central Metro Arterial,Arterial,7,Thursday,3270.0,24.9,63.2,71.4,Overcast,0
+SEG-1938,Harbor Industrial Parkway,Collector,15,Saturday,1352.0,27.0,38.2,41.2,Rain,0
+SEG-1939,Highway 101 Bay Corridor,Highway,4,Saturday,791.0,92.7,5.4,13.4,Clear,0
+SEG-1940,Airport Transit Link,Expressway,7,Saturday,1903.0,80.7,11.6,23.0,Clear,0
+SEG-1941,Uptown Commercial Ave,Collector,11,Saturday,1899.0,30.9,35.4,47.4,Overcast,0
+SEG-1942,Tech Innovation Blvd,Arterial,11,Sunday,1860.0,50.0,23.6,37.8,Overcast,0
+SEG-1943,Tech Innovation Blvd,Arterial,1,Wednesday,730.0,51.5,7.0,14.1,Overcast,0
+SEG-1944,Airport Transit Link,Expressway,8,Wednesday,3988.0,40.5,62.9,76.4,Clear,0
+SEG-1945,Central Metro Arterial,Arterial,1,Monday,430.0,48.4,2.5,6.9,Clear,0
+SEG-1946,Tech Innovation Blvd,Arterial,16,Friday,3282.0,33.5,53.7,74.0,Clear,0
+SEG-1947,Interstate 80 Express,Highway,8,Thursday,3970.0,18.9,81.3,82.7,Clear,1
+SEG-1948,Harbor Industrial Parkway,Collector,8,Saturday,857.0,32.2,23.2,28.6,Fog,0
+SEG-1949,Highway 101 Bay Corridor,Highway,10,Monday,2862.0,95.7,10.7,26.9,Clear,0
+SEG-1950,Tech Innovation Blvd,Arterial,14,Friday,1824.0,51.9,18.9,40.4,Overcast,0
+SEG-1951,Sunset Suburban Ring,Local,0,Tuesday,254.0,36.8,11.5,13.2,Clear,0
+SEG-1952,Highway 101 Bay Corridor,Highway,13,Thursday,3499.0,70.4,32.5,42.1,Overcast,0
+SEG-1953,Uptown Commercial Ave,Collector,5,Friday,679.0,39.4,2.0,13.9,Overcast,0
+SEG-1954,Highway 101 Bay Corridor,Highway,18,Saturday,2040.0,88.1,17.7,24.1,Clear,0
+SEG-1955,Interstate 80 Express,Highway,7,Tuesday,3491.0,60.1,47.6,61.2,Clear,0
+SEG-1956,Sunset Suburban Ring,Local,11,Saturday,583.0,24.9,42.8,41.3,Fog,0
+SEG-1957,Harbor Industrial Parkway,Collector,18,Thursday,2126.0,25.3,56.5,62.2,Clear,0
+SEG-1958,Highway 101 Bay Corridor,Highway,13,Saturday,3459.0,63.4,42.8,52.4,Rain,0
+SEG-1959,Central Metro Arterial,Arterial,2,Thursday,826.0,41.7,14.3,13.4,Clear,0
+SEG-1960,Highway 101 Bay Corridor,Highway,12,Sunday,2587.0,89.3,18.0,29.0,Overcast,0
+SEG-1961,Interstate 80 Express,Highway,14,Saturday,2316.0,91.4,21.3,32.6,Overcast,0
+SEG-1962,Airport Transit Link,Expressway,8,Thursday,4003.0,22.9,74.3,79.9,Fog,0
+SEG-1963,Highway 101 Bay Corridor,Highway,10,Tuesday,2420.0,73.0,28.6,36.8,Fog,0
+SEG-1964,Uptown Commercial Ave,Collector,22,Wednesday,927.0,,11.1,20.4,Clear,0
+SEG-1965,Harbor Industrial Parkway,Collector,16,Tuesday,2363.0,20.0,62.9,75.5,Clear,0
+SEG-1966,Sunset Suburban Ring,Local,3,Tuesday,358.0,42.4,8.1,18.5,Clear,0
+SEG-1967,Tech Innovation Blvd,Arterial,16,Saturday,1166.0,50.4,13.3,19.9,Clear,0
+SEG-1968,Interstate 80 Express,Highway,12,Sunday,2440.0,95.0,18.9,33.7,Clear,0
+SEG-1969,Highway 101 Bay Corridor,Highway,18,Wednesday,4800.0,58.3,50.7,68.8,Clear,0
+SEG-1970,Central Metro Arterial,Arterial,13,Friday,2344.0,41.5,28.0,48.9,Clear,0
+SEG-1971,Highway 101 Bay Corridor,Highway,12,Saturday,2657.0,80.6,27.6,37.5,Overcast,0
+SEG-1972,Airport Transit Link,Expressway,19,Tuesday,3959.0,30.6,75.9,80.6,Rain,0
+SEG-1973,Uptown Commercial Ave,Collector,0,Tuesday,447.0,36.0,9.2,13.8,Clear,0
+SEG-1974,Highway 101 Bay Corridor,Highway,19,Wednesday,4291.0,28.9,69.4,69.0,Clear,0
+SEG-1975,Uptown Commercial Ave,Collector,16,Monday,2594.0,20.5,60.0,71.2,Clear,0
+SEG-1976,Tech Innovation Blvd,Arterial,22,Monday,1295.0,53.6,11.4,24.2,Overcast,0
+SEG-1977,Highway 101 Bay Corridor,Highway,6,Monday,2120.0,89.0,13.5,23.0,Clear,0
+SEG-1978,Airport Transit Link,Expressway,23,Tuesday,2055.0,87.7,10.7,30.3,Overcast,0
+SEG-1979,Sunset Suburban Ring,Local,23,Sunday,892.0,26.6,46.2,51.2,Clear,0
+SEG-1980,Interstate 80 Express,Highway,19,Thursday,3464.0,42.5,55.6,60.7,Clear,0
+SEG-1981,Central Metro Arterial,Arterial,16,Monday,2900.0,18.2,63.3,67.9,Overcast,0
+SEG-1982,Interstate 80 Express,Highway,1,Saturday,306.0,52.0,34.1,23.5,Clear,1
+SEG-1983,Central Metro Arterial,Arterial,7,Saturday,1501.0,43.1,22.7,24.7,Overcast,0
+SEG-1984,Central Metro Arterial,Arterial,14,Thursday,1836.0,46.5,17.9,29.1,Clear,0
+SEG-1985,Airport Transit Link,Expressway,10,Thursday,2150.0,74.5,17.5,29.5,Overcast,0
+SEG-1986,Highway 101 Bay Corridor,Highway,15,Friday,3131.0,69.5,37.7,46.8,Rain,0
+SEG-1987,Uptown Commercial Ave,Collector,1,Saturday,550.0,25.0,22.0,17.3,Rain,0
+SEG-1988,Central Metro Arterial,Arterial,4,Friday,752.0,36.5,19.9,22.8,Clear,1
+SEG-1989,Airport Transit Link,Expressway,7,Wednesday,4010.0,41.3,58.7,73.6,Clear,0
+SEG-1990,Central Metro Arterial,Arterial,3,Wednesday,535.0,47.5,5.1,9.0,Clear,0
+SEG-1991,Harbor Industrial Parkway,Collector,13,Wednesday,1529.0,32.4,35.8,48.3,Clear,0
+SEG-1992,Central Metro Arterial,Arterial,9,Wednesday,3727.0,12.0,78.0,85.8,Fog,1
+SEG-1993,Uptown Commercial Ave,Collector,22,Monday,1438.0,29.0,31.0,39.8,Overcast,0
+SEG-1994,Uptown Commercial Ave,Collector,5,Wednesday,398.0,35.5,5.6,8.5,Clear,0
+SEG-1995,Harbor Industrial Parkway,Collector,1,Friday,303.0,44.0,6.0,8.1,Overcast,0
+SEG-1996,Highway 101 Bay Corridor,Highway,7,Thursday,4376.0,51.7,52.1,66.5,Clear,0
+SEG-1997,Highway 101 Bay Corridor,Highway,12,Saturday,,70.9,31.4,39.0,Overcast,0
+SEG-1998,Highway 101 Bay Corridor,Highway,3,Monday,997.0,100.5,4.8,15.6,Clear,0
+SEG-1999,Central Metro Arterial,Arterial,13,Monday,2135.0,37.8,34.4,41.1,Clear,0
+SEG-2000,Harbor Industrial Parkway,Collector,15,Thursday,1392.0,33.3,31.2,39.2,Clear,0
+SEG-2001,Tech Innovation Blvd,Arterial,18,Thursday,2652.0,30.7,52.5,61.0,Clear,0
+SEG-2002,Airport Transit Link,Expressway,11,Sunday,2401.0,53.7,43.3,51.6,Rain,0
+SEG-2003,Sunset Suburban Ring,Local,23,Monday,416.0,41.0,15.2,25.1,Rain,0
+SEG-2004,Central Metro Arterial,Arterial,17,Sunday,,34.6,34.9,37.1,Rain,0
+SEG-2005,Uptown Commercial Ave,Collector,14,Thursday,1281.0,31.6,26.7,35.3,Clear,0
+SEG-2006,Central Metro Arterial,Arterial,6,Tuesday,1922.0,45.2,23.2,38.4,Clear,0
+SEG-2007,Highway 101 Bay Corridor,Highway,5,Wednesday,656.0,84.6,12.7,10.9,Rain,0
+SEG-2008,Interstate 80 Express,Highway,21,Tuesday,2380.0,78.2,26.1,36.9,Clear,0
+SEG-2009,Airport Transit Link,Expressway,8,Sunday,2265.0,61.1,34.5,38.2,Clear,0
+SEG-2010,Highway 101 Bay Corridor,Highway,14,Saturday,3009.0,78.4,23.1,32.2,Overcast,0
+SEG-2011,Central Metro Arterial,Arterial,0,Wednesday,316.0,48.8,3.5,6.2,Clear,0
+SEG-2012,Airport Transit Link,Expressway,17,Tuesday,3552.0,45.6,59.5,67.1,Clear,0
+SEG-2013,Uptown Commercial Ave,Collector,16,Thursday,2122.0,24.1,52.9,68.7,Clear,0
+SEG-2014,Sunset Suburban Ring,Local,22,Monday,559.0,47.7,11.8,29.2,Clear,0
+SEG-2015,Tech Innovation Blvd,Arterial,12,Tuesday,2146.0,37.8,41.5,51.6,Rain,0
+SEG-2016,Harbor Industrial Parkway,Collector,20,Thursday,767.0,48.7,2.0,17.0,Overcast,0
+SEG-2017,Interstate 80 Express,Highway,22,Friday,1681.0,91.8,12.7,25.0,Overcast,0
+SEG-2018,Airport Transit Link,Expressway,22,Monday,2096.0,73.5,23.3,33.9,Clear,0
+SEG-2019,Tech Innovation Blvd,Arterial,22,Wednesday,1593.0,33.6,37.8,36.4,Overcast,1
+SEG-2020,Harbor Industrial Parkway,Collector,15,Tuesday,1168.0,38.9,20.3,33.4,Clear,0
+SEG-2021,Tech Innovation Blvd,Arterial,15,Saturday,2429.0,38.0,39.2,50.1,Overcast,0
+SEG-2022,Harbor Industrial Parkway,Collector,2,Thursday,651.0,41.0,11.6,19.1,Rain,0
+SEG-2023,Harbor Industrial Parkway,Collector,19,Thursday,2007.0,13.8,65.5,65.7,Clear,0
+SEG-2024,Airport Transit Link,Expressway,13,Saturday,2322.0,69.3,22.8,39.3,Overcast,0
+SEG-2025,Sunset Suburban Ring,Local,3,Thursday,287.0,34.7,15.9,16.4,Clear,0
+SEG-2026,Harbor Industrial Parkway,Collector,21,Thursday,1225.0,37.6,21.4,30.7,Clear,0
+SEG-2027,Interstate 80 Express,Highway,21,Wednesday,1782.0,85.7,14.2,23.9,Overcast,0
+SEG-2028,Harbor Industrial Parkway,Collector,17,Saturday,1479.0,28.2,43.8,48.6,Rain,0
+SEG-2029,Airport Transit Link,Expressway,14,Thursday,2282.0,81.8,20.2,35.2,Clear,0
+SEG-2030,Harbor Industrial Parkway,Collector,1,Friday,327.0,39.5,4.4,4.0,Clear,0
+SEG-2031,Sunset Suburban Ring,Local,16,Thursday,1106.0,22.6,60.2,73.8,Clear,0
+SEG-2032,Airport Transit Link,Expressway,6,Saturday,1947.0,68.9,23.7,33.8,Rain,0
+SEG-2033,Airport Transit Link,Expressway,20,Thursday,1635.0,77.9,15.3,22.2,Clear,0
+SEG-2034,Central Metro Arterial,Arterial,16,Tuesday,3557.0,24.5,63.8,75.9,Clear,0
+SEG-2035,Central Metro Arterial,Arterial,23,Tuesday,1733.0,49.3,14.1,29.0,Clear,0
+SEG-2036,Uptown Commercial Ave,Collector,10,Tuesday,1455.0,31.1,26.1,38.5,Clear,0
+SEG-2037,Highway 101 Bay Corridor,Highway,7,Friday,4800.0,12.5,83.9,85.4,Overcast,1
+SEG-2038,Sunset Suburban Ring,Local,0,Monday,403.0,36.6,13.3,19.3,Clear,0
+SEG-2039,Sunset Suburban Ring,Local,12,Monday,687.0,24.7,41.3,44.8,Overcast,0
+SEG-2040,Airport Transit Link,Expressway,11,Wednesday,2305.0,36.5,54.8,55.2,Clear,1
+SEG-2041,Central Metro Arterial,Arterial,10,Monday,1527.0,49.3,13.0,29.1,Overcast,0
+SEG-2042,Interstate 80 Express,Highway,20,Tuesday,1975.0,95.7,14.5,28.5,Clear,0
+SEG-2043,Sunset Suburban Ring,Local,10,Tuesday,537.0,37.0,20.3,29.9,Clear,0
+SEG-2044,Central Metro Arterial,Arterial,2,Wednesday,694.0,50.3,2.0,10.7,Overcast,0
+SEG-2045,Highway 101 Bay Corridor,Highway,3,Tuesday,1143.0,97.6,2.0,10.2,Clear,0
+SEG-2046,Harbor Industrial Parkway,Collector,20,Wednesday,1104.0,36.1,22.1,27.0,Clear,0
+SEG-2047,Harbor Industrial Parkway,Collector,5,Friday,403.0,31.9,27.1,25.3,Overcast,1
+SEG-2048,Uptown Commercial Ave,Collector,13,Sunday,1486.0,32.5,26.2,38.1,Clear,0
+SEG-2049,Uptown Commercial Ave,Collector,18,Saturday,936.0,31.7,22.8,25.7,Rain,0
+SEG-2050,Sunset Suburban Ring,Local,17,Tuesday,1303.0,26.6,59.7,76.9,Overcast,0
+SEG-2051,Harbor Industrial Parkway,Collector,3,Friday,426.0,50.8,2.0,9.6,Clear,0
+SEG-2052,Tech Innovation Blvd,Arterial,0,Tuesday,517.0,53.7,4.4,16.6,Overcast,0
+SEG-2053,Interstate 80 Express,Highway,16,Tuesday,4007.0,18.6,82.5,77.9,Clear,1
+SEG-2054,Tech Innovation Blvd,Arterial,22,Friday,1057.0,54.0,12.2,25.8,Overcast,0
+SEG-2055,Harbor Industrial Parkway,Collector,14,Tuesday,1086.0,44.4,13.9,25.7,Clear,0
+SEG-2056,Harbor Industrial Parkway,Collector,2,Wednesday,158.0,29.5,23.0,19.7,Clear,1
+SEG-2057,Sunset Suburban Ring,Local,9,Thursday,970.0,18.5,58.2,61.3,Clear,0
+SEG-2058,Central Metro Arterial,Arterial,14,Wednesday,2417.0,27.9,49.0,51.8,Fog,0
+SEG-2059,Central Metro Arterial,Arterial,4,Thursday,591.0,40.6,12.2,13.2,Rain,0
+SEG-2060,Central Metro Arterial,Arterial,18,Monday,3051.0,26.1,61.1,71.4,Overcast,0
+SEG-2061,Interstate 80 Express,Highway,20,Thursday,1931.0,97.8,17.3,28.2,Clear,0
+SEG-2062,Interstate 80 Express,Highway,14,Thursday,2808.0,78.6,34.0,47.1,Clear,0
+SEG-2063,Interstate 80 Express,Highway,9,Wednesday,4489.0,18.2,87.8,92.9,Clear,1
+SEG-2064,Highway 101 Bay Corridor,Highway,14,Sunday,3157.0,59.7,43.5,48.2,Rain,0
+SEG-2065,Airport Transit Link,Expressway,20,Tuesday,1610.0,86.6,7.6,21.1,Overcast,0
+SEG-2066,Airport Transit Link,Expressway,13,Saturday,1965.0,78.8,17.5,28.1,Clear,0
+SEG-2067,Interstate 80 Express,Highway,11,Friday,2433.0,97.0,17.8,33.6,Clear,0
+SEG-2068,Airport Transit Link,Expressway,1,Monday,927.0,72.7,9.5,9.0,Overcast,0
+SEG-2069,Tech Innovation Blvd,Arterial,11,Wednesday,2006.0,33.7,40.1,48.4,Rain,0
+SEG-2070,Sunset Suburban Ring,Local,8,Friday,966.0,26.9,49.7,64.6,Overcast,0
+SEG-2071,Central Metro Arterial,Arterial,14,Wednesday,1746.0,42.0,19.3,31.1,Rain,0
+SEG-2072,Central Metro Arterial,Arterial,2,Thursday,907.0,41.8,16.7,19.1,Clear,0
+SEG-2073,Airport Transit Link,Expressway,23,Thursday,2271.0,75.1,24.9,36.8,Rain,0
+SEG-2074,Interstate 80 Express,Highway,21,Tuesday,2187.0,95.8,15.7,30.3,Clear,0
+SEG-2075,Sunset Suburban Ring,Local,9,Sunday,467.0,47.1,4.9,24.9,Overcast,0
+SEG-2076,Uptown Commercial Ave,Collector,8,Friday,2308.0,17.1,61.4,68.1,Clear,0
+SEG-2077,Central Metro Arterial,Arterial,9,Saturday,1384.0,27.8,40.1,38.1,Clear,1
+SEG-2078,Highway 101 Bay Corridor,Highway,13,Tuesday,2699.0,88.1,15.0,27.8,Clear,0
+SEG-2079,Tech Innovation Blvd,Arterial,20,Sunday,1895.0,42.3,35.4,43.3,Clear,0
+SEG-2080,Tech Innovation Blvd,Arterial,15,Thursday,1629.0,55.3,14.7,32.0,Clear,0
+SEG-2081,Tech Innovation Blvd,Arterial,12,Friday,2071.0,45.3,28.9,43.0,Clear,0
+SEG-2082,Airport Transit Link,Expressway,11,Thursday,2589.0,70.9,28.4,42.7,Clear,0
+SEG-2083,Central Metro Arterial,Arterial,16,Friday,3250.0,16.4,70.8,75.9,Clear,0
+SEG-2084,Interstate 80 Express,Highway,0,Sunday,249.0,87.5,9.1,8.2,Overcast,0
+SEG-2085,Harbor Industrial Parkway,Collector,2,Saturday,466.0,34.7,12.6,10.1,Rain,0
+SEG-2086,Harbor Industrial Parkway,Collector,13,Saturday,1636.0,38.6,30.3,44.3,Clear,0
+SEG-2087,Harbor Industrial Parkway,Collector,18,Monday,1807.0,25.4,52.0,61.1,Clear,0
+SEG-2088,Uptown Commercial Ave,Collector,14,Friday,1264.0,33.3,17.0,30.3,Clear,0
+SEG-2089,Central Metro Arterial,Arterial,6,Saturday,1891.0,50.9,14.1,30.2,Clear,0
+SEG-2090,Tech Innovation Blvd,Arterial,21,Wednesday,1563.0,51.0,15.7,30.0,Clear,0
+SEG-2091,Interstate 80 Express,Highway,1,Thursday,754.0,68.8,25.5,24.3,Clear,1
+SEG-2092,Sunset Suburban Ring,Local,4,Tuesday,150.0,41.3,5.5,10.4,Clear,0
+SEG-2093,Interstate 80 Express,Highway,17,Sunday,2518.0,37.7,55.7,50.0,Clear,1
+SEG-2094,Highway 101 Bay Corridor,Highway,7,Tuesday,4288.0,48.6,57.2,63.1,Clear,0
+SEG-2095,Interstate 80 Express,Highway,2,Thursday,1077.0,89.6,10.5,13.3,Clear,0
+SEG-2096,Uptown Commercial Ave,Collector,6,Sunday,1196.0,22.2,36.4,36.6,Clear,1
+SEG-2097,Sunset Suburban Ring,Local,5,Tuesday,475.0,38.8,11.5,19.2,Overcast,0
+SEG-2098,Tech Innovation Blvd,Arterial,1,Tuesday,243.0,56.6,2.0,6.7,Clear,0
+SEG-2099,Harbor Industrial Parkway,Collector,1,Wednesday,829.0,39.0,13.6,21.1,Clear,0
+SEG-2100,Uptown Commercial Ave,Collector,19,Friday,2220.0,19.3,58.2,66.5,Clear,0
+SEG-2101,Harbor Industrial Parkway,Collector,8,Sunday,1248.0,34.4,34.2,41.9,Overcast,0
+SEG-2102,Tech Innovation Blvd,Arterial,20,Wednesday,1983.0,44.4,28.9,43.0,Overcast,0
+SEG-2103,Tech Innovation Blvd,Arterial,4,Saturday,915.0,51.5,14.3,12.3,Clear,0
+SEG-2104,Highway 101 Bay Corridor,Highway,15,Thursday,2735.0,86.4,23.5,33.4,Rain,0
+SEG-2105,Sunset Suburban Ring,Local,2,Sunday,222.0,34.0,11.2,10.6,Rain,0
+SEG-2106,Highway 101 Bay Corridor,Highway,12,Sunday,2650.0,65.8,33.3,35.4,Clear,0
+SEG-2107,Highway 101 Bay Corridor,Highway,15,Saturday,2623.0,81.2,26.5,37.5,Rain,0
+SEG-2108,Harbor Industrial Parkway,Collector,12,Thursday,1298.0,39.3,22.1,32.3,Clear,0
+SEG-2109,Central Metro Arterial,Arterial,9,Saturday,1963.0,31.7,44.2,45.3,Overcast,0
+SEG-2110,Airport Transit Link,Expressway,18,Monday,3895.0,45.0,52.6,73.5,Clear,0
+SEG-2111,Uptown Commercial Ave,Collector,10,Sunday,1534.0,35.2,22.2,41.2,Clear,0
+SEG-2112,Interstate 80 Express,Highway,3,Sunday,705.0,96.5,8.0,13.9,Clear,0
+SEG-2113,Tech Innovation Blvd,Arterial,9,Thursday,2570.0,21.2,65.6,69.7,Clear,0
+SEG-2114,Uptown Commercial Ave,Collector,3,Sunday,477.0,26.5,19.2,10.9,Overcast,0
+SEG-2115,Interstate 80 Express,Highway,6,Sunday,2478.0,102.0,15.5,33.2,Overcast,0
+SEG-2116,Sunset Suburban Ring,Local,14,Friday,941.0,33.4,34.9,50.6,Clear,0
+SEG-2117,Uptown Commercial Ave,Collector,14,Friday,1570.0,27.1,34.0,39.3,Overcast,0
+SEG-2118,Central Metro Arterial,Arterial,6,Sunday,1769.0,47.6,19.6,31.1,Overcast,0
+SEG-2119,Airport Transit Link,Expressway,20,Friday,2157.0,73.3,23.4,32.6,Clear,0
+SEG-2120,Airport Transit Link,Expressway,15,Sunday,2751.0,65.9,33.2,46.8,Overcast,0
+SEG-2121,Sunset Suburban Ring,Local,9,Friday,949.0,23.6,53.1,59.2,Overcast,0
+SEG-2122,Interstate 80 Express,Highway,3,Sunday,720.0,88.8,8.6,15.0,Clear,0
+SEG-2123,Sunset Suburban Ring,Local,9,Sunday,513.0,42.8,12.3,26.4,Clear,0
+SEG-2124,Interstate 80 Express,Highway,7,Saturday,2522.0,77.0,30.6,36.5,Clear,0
+SEG-2125,Interstate 80 Express,Highway,9,Wednesday,3578.0,20.2,73.3,72.2,Clear,1
+SEG-2126,Tech Innovation Blvd,Arterial,20,Thursday,1837.0,33.7,36.8,39.7,Clear,0
+SEG-2127,Interstate 80 Express,Highway,16,Tuesday,3261.0,63.6,45.8,55.4,Clear,0
+SEG-2128,Harbor Industrial Parkway,Collector,19,Friday,1747.0,19.6,56.9,65.9,Rain,0
+SEG-2129,Tech Innovation Blvd,Arterial,23,Tuesday,1297.0,45.5,22.2,28.4,Rain,0
+SEG-2130,Central Metro Arterial,Arterial,16,Sunday,1500.0,48.5,15.3,27.6,Clear,0
+SEG-2131,Interstate 80 Express,Highway,13,Tuesday,2524.0,80.2,26.2,36.2,Clear,0
+SEG-2132,Airport Transit Link,Expressway,2,Thursday,739.0,77.3,7.4,8.3,Clear,0
+SEG-2133,Airport Transit Link,Expressway,20,Friday,1772.0,73.1,23.7,30.9,Rain,0
+SEG-2134,Harbor Industrial Parkway,Collector,18,Thursday,1833.0,14.8,64.8,62.2,Overcast,0
+SEG-2135,Uptown Commercial Ave,Collector,8,Monday,2016.0,20.8,54.2,63.2,Rain,0
+SEG-2136,Sunset Suburban Ring,Local,6,Monday,377.0,37.5,10.9,18.6,Clear,0
+SEG-2137,Highway 101 Bay Corridor,Highway,21,Thursday,3178.0,83.3,28.3,42.1,Clear,0
+SEG-2138,Sunset Suburban Ring,Local,11,Monday,795.0,14.3,58.6,54.3,Overcast,1
+SEG-2139,Tech Innovation Blvd,Arterial,16,Monday,2911.0,30.1,57.1,72.2,Clear,0
+SEG-2140,Central Metro Arterial,Arterial,19,Saturday,1419.0,40.0,27.7,34.6,Rain,0
+SEG-2141,Airport Transit Link,Expressway,19,Thursday,3623.0,48.1,54.4,67.6,Clear,0
+SEG-2142,Uptown Commercial Ave,Collector,17,Saturday,1301.0,32.9,20.0,28.9,Overcast,0
+SEG-2143,Interstate 80 Express,Highway,7,Tuesday,4157.0,39.7,70.9,75.6,Clear,0
+SEG-2144,Airport Transit Link,Expressway,23,Saturday,2159.0,72.1,23.4,35.0,Clear,0
+SEG-2145,Harbor Industrial Parkway,Collector,19,Wednesday,1765.0,16.4,60.2,61.2,Clear,0
+SEG-2146,Tech Innovation Blvd,Arterial,8,Thursday,2462.0,27.4,56.2,59.4,Clear,0
+SEG-2147,Central Metro Arterial,Arterial,22,Monday,1418.0,50.3,11.8,27.8,Clear,0
+SEG-2148,Central Metro Arterial,Arterial,18,Thursday,2877.0,21.6,63.5,67.1,Overcast,0
+SEG-2149,Highway 101 Bay Corridor,Highway,11,Wednesday,2800.0,80.5,23.6,35.0,Rain,0
+SEG-2150,Tech Innovation Blvd,Arterial,12,Tuesday,2098.0,49.9,30.0,47.8,Clear,0
+SEG-2151,Airport Transit Link,Expressway,15,Friday,1944.0,79.9,13.9,27.0,Overcast,0
+SEG-2152,Airport Transit Link,Expressway,19,Thursday,3557.0,33.5,68.0,74.2,Overcast,0
+SEG-2153,Tech Innovation Blvd,Arterial,21,Friday,1465.0,48.3,18.7,27.5,Clear,0
+SEG-2154,Tech Innovation Blvd,Arterial,11,Monday,1896.0,43.5,25.6,38.2,Clear,0
+SEG-2155,Interstate 80 Express,Highway,4,Thursday,566.0,94.5,2.2,6.8,Clear,0
+SEG-2156,Tech Innovation Blvd,Arterial,22,Saturday,1263.0,54.9,9.6,22.4,Overcast,0
+SEG-2157,Harbor Industrial Parkway,Collector,23,Sunday,1229.0,44.4,13.7,28.8,Clear,0
+SEG-2158,Sunset Suburban Ring,Local,8,Sunday,596.0,28.1,33.6,39.2,Rain,0
+SEG-2159,Uptown Commercial Ave,Collector,10,Friday,1588.0,28.0,33.3,42.7,Clear,0
+SEG-2160,Tech Innovation Blvd,Arterial,1,Sunday,697.0,49.4,11.1,15.6,Clear,0
+SEG-2161,Sunset Suburban Ring,Local,11,Thursday,453.0,39.7,16.9,25.8,Rain,0
+SEG-2162,Central Metro Arterial,Arterial,13,Wednesday,2187.0,38.2,35.2,44.7,Clear,0
+SEG-2163,Interstate 80 Express,Highway,13,Sunday,2355.0,93.9,15.4,29.4,Clear,0
+SEG-2164,Central Metro Arterial,Arterial,8,Wednesday,2894.0,13.5,70.7,70.6,Rain,0
+SEG-2165,Sunset Suburban Ring,Local,17,Monday,841.0,12.0,66.6,65.3,Overcast,1
+SEG-2166,Airport Transit Link,Expressway,8,Saturday,2144.0,37.5,55.0,52.1,Clear,1
+SEG-2167,Airport Transit Link,Expressway,17,Thursday,3370.0,17.9,78.8,78.6,Clear,1
+SEG-2168,Highway 101 Bay Corridor,Highway,12,Tuesday,3207.0,79.2,29.2,43.0,Clear,0
+SEG-2169,Sunset Suburban Ring,Local,17,Wednesday,1152.0,17.6,62.8,71.0,Clear,0
+SEG-2170,Interstate 80 Express,Highway,5,Wednesday,863.0,60.9,31.0,28.0,Clear,1
+SEG-2171,Airport Transit Link,Expressway,0,Wednesday,403.0,51.2,24.2,14.7,Clear,1
+SEG-2172,Uptown Commercial Ave,Collector,21,Wednesday,1336.0,37.6,15.2,25.7,Clear,0
+SEG-2173,Uptown Commercial Ave,Collector,2,Saturday,543.0,38.0,3.0,7.1,Clear,0
+SEG-2174,Harbor Industrial Parkway,Collector,6,Sunday,1236.0,42.2,20.7,29.1,Clear,0
+SEG-2175,Sunset Suburban Ring,Local,3,Friday,220.0,33.9,19.3,17.0,Rain,0
+SEG-2176,Tech Innovation Blvd,Arterial,8,Sunday,1355.0,50.0,16.1,26.1,Rain,0
+SEG-2177,Airport Transit Link,Expressway,20,Monday,1904.0,77.6,21.4,27.8,,0
+SEG-2178,Central Metro Arterial,Arterial,18,Wednesday,2534.0,25.4,52.8,57.7,Rain,0
+SEG-2179,Sunset Suburban Ring,Local,2,Monday,150.0,41.3,3.0,7.9,Clear,0
+SEG-2180,Tech Innovation Blvd,Arterial,20,Saturday,1670.0,39.1,35.0,45.8,Clear,1
+SEG-2181,Interstate 80 Express,Highway,3,Friday,677.0,58.9,32.1,26.6,Clear,1
+SEG-2182,Sunset Suburban Ring,Local,21,Saturday,487.0,34.6,21.8,22.7,Clear,0
+SEG-2183,Interstate 80 Express,Highway,0,Tuesday,574.0,96.4,2.0,5.0,Clear,0
+SEG-2184,Interstate 80 Express,Highway,6,Monday,1948.0,92.7,17.7,27.5,Overcast,0
+SEG-2185,Interstate 80 Express,Highway,21,Saturday,2071.0,96.0,14.6,28.5,Clear,0
+SEG-2186,Interstate 80 Express,Highway,17,Wednesday,4169.0,50.4,61.6,72.0,Clear,0
+SEG-2187,Tech Innovation Blvd,Arterial,8,Thursday,2926.0,12.0,78.7,80.5,Overcast,1
+SEG-2188,Highway 101 Bay Corridor,Highway,7,Sunday,2660.0,45.3,52.2,49.5,Rain,1
+SEG-2189,Airport Transit Link,Expressway,22,Monday,2291.0,54.3,40.5,47.3,Fog,0
+SEG-2190,Uptown Commercial Ave,Collector,12,Monday,1622.0,33.5,25.4,39.8,Clear,0
+SEG-2191,Interstate 80 Express,Highway,9,Tuesday,4173.0,52.2,60.8,69.5,Clear,0
+SEG-2192,Tech Innovation Blvd,Arterial,19,Sunday,1251.0,56.5,7.7,20.2,Clear,0
+SEG-2193,Interstate 80 Express,Highway,19,Wednesday,3332.0,56.4,51.8,53.6,Overcast,0
+SEG-2194,Tech Innovation Blvd,Arterial,0,Monday,498.0,52.6,6.4,11.3,Clear,0
+SEG-2195,Uptown Commercial Ave,Collector,11,Sunday,1624.0,30.4,31.2,50.8,Overcast,1
+SEG-2196,Uptown Commercial Ave,Collector,18,Wednesday,2057.0,17.4,51.5,57.3,Clear,0
+SEG-2197,Interstate 80 Express,Highway,18,Wednesday,4325.0,29.6,75.9,78.5,Rain,0
+SEG-2198,Harbor Industrial Parkway,Collector,0,Tuesday,156.0,43.4,2.0,4.0,Clear,0
+SEG-2199,Sunset Suburban Ring,Local,7,Tuesday,802.0,20.0,51.7,57.2,Clear,0
+SEG-1000,Uptown Commercial Ave,Collector,19,Friday,2225.0,18.8,56.0,64.2,Clear,0
+SEG-1001,Central Metro Arterial,Arterial,21,Friday,1435.0,40.6,18.9,28.7,Rain,0
+SEG-1002,Tech Innovation Blvd,Arterial,16,Wednesday,2519.0,12.0,80.4,81.9,Clear,1
+SEG-1003,Central Metro Arterial,Arterial,4,Wednesday,397.0,50.3,2.0,6.2,Overcast,0
+SEG-1004,Highway 101 Bay Corridor,Highway,19,Thursday,4642.0,15.4,79.7,76.4,Clear,1
