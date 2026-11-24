@@ -2,47 +2,254 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ═══════════════════════════════════════════════════════════════════
+   TRAFFICIQ DESIGN TOKENS — dark is the default, light overrides below
+   ═══════════════════════════════════════════════════════════════════ */
+:root {
+  /* Canvas */
+  --bg-canvas:     #0B0F19;
+  --bg-surface:    #111827;
+  --bg-elevated:   #1F2937;
+  --bg-input:      #030712;
+
+  /* Borders */
+  --border-subtle: #1e293b;
+  --border-muted:  #334155;
+
+  /* Text */
+  --text-primary:  #f8fafc;
+  --text-secondary:#94a3b8;
+  --text-muted:    #64748b;
+
+  /* Scrollbar */
+  --scroll-track:  #0B0F19;
+  --scroll-thumb:  #1F2937;
+  --scroll-hover:  #374151;
+
+  /* Leaflet UI */
+  --leaflet-popup-bg:     #0f172a;
+  --leaflet-popup-text:   #f8fafc;
+  --leaflet-popup-border: #334155;
+  --leaflet-bar-bg:       #0f172a;
+  --leaflet-bar-text:     #e2e8f0;
+  --leaflet-bar-border:   #1e293b;
+  --leaflet-bar-hover-bg: #1e293b;
+  --leaflet-bar-hover-tx: #38bdf8;
+  --leaflet-attr-bg:      rgba(15, 23, 42, 0.85);
+  --leaflet-attr-text:    #94a3b8;
+}
+
+/* ── Light theme overrides ─────────────────────────────────────────── */
+html.light {
+  --bg-canvas:     #f1f5f9;
+  --bg-surface:    #ffffff;
+  --bg-elevated:   #f8fafc;
+  --bg-input:      #ffffff;
+
+  --border-subtle: #e2e8f0;
+  --border-muted:  #cbd5e1;
+
+  --text-primary:  #0f172a;
+  --text-secondary:#475569;
+  --text-muted:    #94a3b8;
+
+  --scroll-track:  #f1f5f9;
+  --scroll-thumb:  #cbd5e1;
+  --scroll-hover:  #94a3b8;
+
+  --leaflet-popup-bg:     #ffffff;
+  --leaflet-popup-text:   #0f172a;
+  --leaflet-popup-border: #cbd5e1;
+  --leaflet-bar-bg:       #ffffff;
+  --leaflet-bar-text:     #0f172a;
+  --leaflet-bar-border:   #e2e8f0;
+  --leaflet-bar-hover-bg: #f1f5f9;
+  --leaflet-bar-hover-tx: #0284c7;
+  --leaflet-attr-bg:      rgba(255,255,255,0.90);
+  --leaflet-attr-text:    #64748b;
+}
+
+/* ── Base layer: apply tokens to body ─────────────────────────────── */
 @layer base {
   body {
-    @apply bg-[#0B0F19] text-slate-100 font-sans min-h-screen overflow-x-hidden;
+    background-color: var(--bg-canvas);
+    color: var(--text-primary);
+    @apply font-sans min-h-screen overflow-x-hidden;
+    transition: background-color 0.25s ease, color 0.25s ease;
   }
 }
 
-/* Custom scrollbars for dark dashboard */
-::-webkit-scrollbar {
-  width: 7px;
-  height: 7px;
+/* ═══════════════════════════════════════════════════════════════════
+   LIGHT-MODE TAILWIND CLASS OVERRIDES
+   These target the specific slate/dark classes used throughout the app.
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* Root canvas */
+html.light .bg-\[\#0B0F19\]  { background-color: #f1f5f9 !important; }
+
+/* Surfaces (slate-950 → white, slate-900 → white/near-white) */
+html.light .bg-slate-950     { background-color: #ffffff !important; }
+html.light .bg-slate-900     { background-color: #f8fafc !important; }
+html.light .bg-slate-900\/90 { background-color: rgba(248,250,252,0.95) !important; }
+html.light .bg-slate-900\/80 { background-color: rgba(248,250,252,0.90) !important; }
+html.light .bg-slate-900\/60 { background-color: rgba(248,250,252,0.85) !important; }
+html.light .bg-slate-950\/70 { background-color: rgba(255,255,255,0.90) !important; }
+html.light .bg-slate-950\/80 { background-color: rgba(255,255,255,0.92) !important; }
+html.light .bg-slate-950\/40 { background-color: rgba(248,250,252,0.60) !important; }
+html.light .bg-slate-950\/60 { background-color: rgba(248,250,252,0.80) !important; }
+
+/* Elevated cards */
+html.light .bg-slate-800     { background-color: #e2e8f0 !important; }
+html.light .bg-slate-800\/50 { background-color: rgba(226,232,240,0.6) !important; }
+
+/* Borders */
+html.light .border-slate-800  { border-color: #e2e8f0 !important; }
+html.light .border-slate-800\/80 { border-color: rgba(226,232,240,0.8) !important; }
+html.light .border-slate-700  { border-color: #cbd5e1 !important; }
+
+/* Text */
+html.light .text-white        { color: #0f172a !important; }
+html.light .text-slate-100    { color: #1e293b !important; }
+html.light .text-slate-200    { color: #334155 !important; }
+html.light .text-slate-300    { color: #475569 !important; }
+html.light .text-slate-400    { color: #64748b !important; }
+html.light .text-slate-500    { color: #94a3b8 !important; }
+
+/* Hover states */
+html.light .hover\:bg-slate-800:hover  { background-color: #e2e8f0 !important; }
+html.light .hover\:bg-slate-700:hover  { background-color: #cbd5e1 !important; }
+
+/* Inputs */
+html.light input, html.light select, html.light textarea {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+html.light input::placeholder, html.light textarea::placeholder {
+  color: #94a3b8 !important;
 }
 
-::-webkit-scrollbar-track {
-  background: #0B0F19;
+/* Sidebar specifically */
+html.light aside.bg-slate-950 {
+  background-color: #ffffff !important;
+  border-color: #e2e8f0 !important;
 }
 
-::-webkit-scrollbar-thumb {
-  background: #1F2937;
-  border-radius: 4px;
+/* Navbar specifically */
+html.light header {
+  background-color: rgba(255,255,255,0.90) !important;
+  border-color: #e2e8f0 !important;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: #374151;
+/* Map tile filter — lighter in light mode */
+html.light .trafficiq-osm-tiles {
+  filter: brightness(1.0) contrast(1.0) saturate(1.0) !important;
 }
 
-/* Glassmorphism and glowing effects */
+/* ═══════════════════════════════════════════════════════════════════
+   SCROLLBARS
+   ═══════════════════════════════════════════════════════════════════ */
+::-webkit-scrollbar { width: 7px; height: 7px; }
+::-webkit-scrollbar-track  { background: var(--scroll-track); }
+::-webkit-scrollbar-thumb  { background: var(--scroll-thumb); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--scroll-hover); }
+
+/* ═══════════════════════════════════════════════════════════════════
+   GLASSMORPHISM HELPERS
+   ═══════════════════════════════════════════════════════════════════ */
 .glass-panel {
   background: rgba(17, 24, 39, 0.75);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
-
-.glow-cyan {
-  box-shadow: 0 0 25px -5px rgba(6, 182, 212, 0.25);
+html.light .glass-panel {
+  background: rgba(255,255,255,0.80);
+  border-color: rgba(0,0,0,0.08);
 }
 
-.glow-blue {
-  box-shadow: 0 0 25px -5px rgba(59, 130, 246, 0.25);
+.glow-cyan   { box-shadow: 0 0 25px -5px rgba(6,  182, 212, 0.25); }
+.glow-blue   { box-shadow: 0 0 25px -5px rgba(59, 130, 246, 0.25); }
+.glow-purple { box-shadow: 0 0 25px -5px rgba(139,92,  246, 0.25); }
+
+/* ═══════════════════════════════════════════════════════════════════
+   LEAFLET / OSM REAL-MAP STYLING
+   ═══════════════════════════════════════════════════════════════════ */
+.trafficiq-map-container { font-family: 'Inter', sans-serif; }
+
+.trafficiq-osm-tiles {
+  filter: brightness(0.92) contrast(1.05) saturate(1.1);
+  transition: filter 0.3s ease;
 }
 
-.glow-purple {
-  box-shadow: 0 0 25px -5px rgba(139, 92, 246, 0.25);
+/* Popups */
+.trafficiq-popup .leaflet-popup-content-wrapper {
+  background: var(--leaflet-popup-bg) !important;
+  color:      var(--leaflet-popup-text) !important;
+  border:     1px solid var(--leaflet-popup-border) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5), 0 8px 10px -6px rgba(0,0,0,0.5) !important;
+  padding: 0 !important;
+}
+.trafficiq-popup .leaflet-popup-content { margin: 0 !important; line-height: 1.4 !important; }
+.trafficiq-popup .leaflet-popup-tip {
+  background: var(--leaflet-popup-bg) !important;
+  border:     1px solid var(--leaflet-popup-border) !important;
+}
+.trafficiq-popup .leaflet-popup-close-button { color: var(--text-secondary) !important; padding: 8px !important; font-size: 16px !important; }
+.trafficiq-popup .leaflet-popup-close-button:hover { color: var(--text-primary) !important; }
+
+/* Zoom bar */
+.leaflet-bar {
+  border: 1px solid var(--border-muted) !important;
+  border-radius: 10px !important;
+  overflow: hidden;
+  box-shadow: 0 10px 15px -3px rgba(0,0,0,0.4) !important;
+}
+.leaflet-bar a {
+  background-color: var(--leaflet-bar-bg) !important;
+  color:            var(--leaflet-bar-text) !important;
+  border-bottom:    1px solid var(--leaflet-bar-border) !important;
+  transition: all 0.15s ease;
+}
+.leaflet-bar a:hover {
+  background-color: var(--leaflet-bar-hover-bg) !important;
+  color:            var(--leaflet-bar-hover-tx) !important;
+}
+
+/* Attribution */
+.leaflet-container .leaflet-control-attribution {
+  background: var(--leaflet-attr-bg) !important;
+  color:      var(--leaflet-attr-text) !important;
+  font-size: 10px !important;
+  padding: 2px 8px !important;
+  border-top-left-radius: 6px;
+  backdrop-filter: blur(4px);
+}
+.leaflet-container .leaflet-control-attribution a { color: #38bdf8 !important; text-decoration: none; }
+.leaflet-container .leaflet-control-attribution a:hover { text-decoration: underline; }
+
+/* ═══════════════════════════════════════════════════════════════════
+   USER LOCATION RADAR PULSE
+   ═══════════════════════════════════════════════════════════════════ */
+.user-radar-pulse { position: relative; width: 24px; height: 24px; }
+.user-radar-pulse::before {
+  content: '';
+  position: absolute;
+  top: -8px; left: -8px;
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  background: rgba(6, 182, 212, 0.35);
+  animation: radar-pulse 2s infinite ease-out;
+}
+@keyframes radar-pulse {
+  0%   { transform: scale(0.4); opacity: 0.9; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   THEME TOGGLE BUTTON TRANSITION
+   ═══════════════════════════════════════════════════════════════════ */
+.theme-toggle-btn {
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
 }

@@ -211,3 +211,51 @@ As detailed in Section 10 of the application:
 2. **Sampling Bias:** Observations gathered from fixed detectors may underrepresent non-instrumented corridors.
 3. **Temporal Invariance:** Static clustering does not account for long-term urban shifts without recurring calibration.
 4. **Decision Support:** Outputs are intended exclusively to guide human traffic engineers and urban planning analysts rather than serve as autonomous policy enforcement triggers.
+
+---
+
+## 7. Citizen Public Services & Authority Operations Architecture
+
+TrafficIQ v2.0 integrates five major real-world public services alongside its machine-learning research core:
+
+### A. Citizen Road Hazard Reporting
+- **Submission Portal:** 10 defect categories (Potholes, Fallen Trees, Road Blockages, Waterlogging, Signal Failures, Debris, Exposed Wires, etc.).
+- **Photo Upload:** JPG, JPEG, PNG, WEBP with 5MB validation, binary magic-byte verification, and secure UUID storage.
+- **Location Engine:** Browser geolocation integration (`navigator.geolocation`) with manual address fallback. Coordinates are never fabricated.
+- **Explainable Priority System:** Rule-based heuristic advising citizens and authorities on immediate collision and life-safety risks.
+- **Duplicate Hazard Detection:** Real-time checking of active reports on the same corridor or within 300 meters.
+- **Unique Report IDs:** Formatted as `REP-2026-XXXXX` saved to persistent SQLite storage (`backend/data/trafficiq_services.db`).
+
+### B. Proximity Hazard Explorer ("Issues Near Me")
+- Spherical Haversine distance calculation relative to the citizen's GPS coordinates.
+- Interactive map and list view with 1 km, 3 km, 5 km, and 10 km radius filters.
+- Distinct badges for "Verified by Authority" versus unverified citizen reports.
+
+### C. Smart Parking Finder
+- Name and commercial area search with interactive map pins.
+- Strict availability grounding: Displays *"Availability not currently available"* unless backed by active sensor telemetry.
+- Verified parking charges and facilities to report incorrect parking data.
+
+### D. Road Construction & Diversion Updates
+- Official municipal advisories detailing planned civil works, culvert replacements, and temporary closures.
+- Verified diversion route display: Alternate detours are rendered only when formally designated by traffic authorities.
+
+### E. Accessible Road Information
+- Focused on pedestrians and people with mobility challenges (broken pedestrian crossings, missing wheelchair ramps, blocked footpaths).
+- Universal design policy: Never asserts wheelchair accessibility without formal municipal engineering audit.
+
+### F. Authority Control Centre
+- Protected by HMAC token authentication and role-based access control.
+- Authority capabilities: Triage, verify, dispatch squads, update progress, resolve with resolution photos, reject with mandatory reasons, and audit log tracking.
+- Pre-configured demonstration inspector credentials: `officer@trafficiq.gov` / `Authority@2026`.
+
+### G. Real Geographic Map Engine (OpenStreetMap & Leaflet)
+- **Map Tiles:** Official OpenStreetMap raster tiles (`https://tile.openstreetmap.org/{z}/{x}/{y}.png`) with full attribution (`© OpenStreetMap contributors`).
+- **Interactive Leaflet Architecture:** Real zoom, pan, touchscreen pinch/drag, marker popups, and layer toggles.
+- **Geocoding & Place Search:** OpenStreetMap Nominatim search integration with debounced input and rate-limiting compliance.
+- **Map Coordinate Picker:** Clicking directly on the map in the Citizen Reporting Portal places a draggable pin and performs reverse geocoding to suggest the street name and exact latitude/longitude.
+- **Marker Clustering:** Grouped clusters for dense urban hazard markers, maintaining high UI responsiveness and clarity.
+- **Geographic Polylines:** Real road construction zones render affected road corridors as line shapes.
+- **Strict Data Grounding:** Records without valid coordinates are displayed in list views and clearly labeled as location unavailable, never silently placed at an arbitrary default location.
+
+

@@ -14,13 +14,23 @@ from routes.pca_routes import pca_bp
 from routes.interpretation_routes import interpretation_bp
 from routes.stability_routes import stability_bp
 from routes.report_routes import report_bp
+from routes.hazard_routes import hazard_bp
+from routes.parking_routes import parking_bp
+from routes.road_updates_routes import road_updates_bp
+from routes.accessibility_routes import accessibility_bp
+from routes.authority_routes import authority_bp
+from routes.stats_routes import stats_bp
+from database.db_manager import init_db
 from models.state_manager import state
 
 def create_app():
+    # Initialize SQLite database and upload storage
+    init_db()
+
     app = Flask(__name__)
     CORS(app, resources={r"/api/*": {"origins": "*"}})
     
-    # Register blueprints
+    # Register existing ML blueprints
     app.register_blueprint(dataset_bp, url_prefix='/api/dataset')
     app.register_blueprint(preprocessing_bp, url_prefix='/api/preprocessing')
     app.register_blueprint(clustering_bp, url_prefix='/api/clustering')
@@ -29,11 +39,20 @@ def create_app():
     app.register_blueprint(stability_bp, url_prefix='/api/stability')
     app.register_blueprint(report_bp, url_prefix='/api/report')
     
+    # Register new Citizen Services & Authority blueprints
+    app.register_blueprint(hazard_bp, url_prefix='/api/hazards')
+    app.register_blueprint(parking_bp, url_prefix='/api/parking')
+    app.register_blueprint(road_updates_bp, url_prefix='/api/road-updates')
+    app.register_blueprint(accessibility_bp, url_prefix='/api/accessibility')
+    app.register_blueprint(authority_bp, url_prefix='/api/authority')
+    app.register_blueprint(stats_bp, url_prefix='/api/stats')
+    
     @app.route('/api/health', methods=['GET'])
     def health_check():
         return jsonify({
             "status": "online",
-            "service": "TrafficIQ Analytics Engine",
+            "service": "TrafficIQ Public Mobility & Analytics Engine",
+            "citizen_services_enabled": True,
             "has_dataset": state.raw_df is not None,
             "dataset_name": state.dataset_name,
             "is_preprocessed": state.scaled_df is not None,
@@ -57,7 +76,8 @@ if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app = create_app()
     print(f"==================================================")
-    print(f"  TrafficIQ Machine Learning Backend Running")
+    print(f"  TrafficIQ Smart City Platform Running")
+    print(f"  Citizen Services & ML Engine Online")
     print(f"  REST API Endpoint: http://localhost:{port}/api")
     print(f"==================================================")
     app.run(host='0.0.0.0', port=port, debug=True)

@@ -1,8 +1,10 @@
 import React from 'react';
-import { Database, FileDown, RefreshCw, CheckCircle2, AlertCircle } from 'lucide-react';
-import api from '../services/api';
+import { Database, FileDown, RefreshCw, CheckCircle2, AlertCircle, Sun, Moon } from 'lucide-react';
+import { api } from '../services/api';
 
-export default function Navbar({ title, subtitle, onRefresh, onLoadDemo, isOnline, loading }) {
+export default function Navbar({ title, subtitle, onRefresh, onLoadDemo, isOnline, loading, theme, onToggleTheme }) {
+  const isDark = theme !== 'light';
+
   return (
     <header className="h-16 border-b border-slate-800 bg-slate-950/70 backdrop-blur-md sticky top-0 z-30 flex items-center justify-between px-6">
       <div>
@@ -28,7 +30,7 @@ export default function Navbar({ title, subtitle, onRefresh, onLoadDemo, isOnlin
           )}
         </div>
 
-        {/* Load Demo Dataset Quick Button */}
+        {/* Load Demo Dataset */}
         <button
           onClick={onLoadDemo}
           disabled={loading}
@@ -39,7 +41,7 @@ export default function Navbar({ title, subtitle, onRefresh, onLoadDemo, isOnlin
           <span>Load Demo Data</span>
         </button>
 
-        {/* Download PDF Quick Button */}
+        {/* Download PDF */}
         <a
           href={api.pdfReportUrl}
           target="_blank"
@@ -50,7 +52,7 @@ export default function Navbar({ title, subtitle, onRefresh, onLoadDemo, isOnlin
           <span>Download PDF</span>
         </a>
 
-        {/* Refresh State Button */}
+        {/* Refresh */}
         <button
           onClick={onRefresh}
           disabled={loading}
@@ -58,6 +60,27 @@ export default function Navbar({ title, subtitle, onRefresh, onLoadDemo, isOnlin
           title="Refresh dataset state"
         >
           <RefreshCw className={`w-4 h-4 ${loading ? 'animate-spin text-cyan-400' : ''}`} />
+        </button>
+
+        {/* ── Dark / Light Mode Toggle ─────────────────────────────────── */}
+        <button
+          onClick={onToggleTheme}
+          className="theme-toggle-btn relative flex items-center justify-between w-14 h-7 rounded-full border border-slate-700 bg-slate-900 hover:border-slate-600 px-1 transition"
+          title={isDark ? 'Switch to Light Mode' : 'Switch to Dark Mode'}
+          aria-label={isDark ? 'Switch to Light Mode' : 'Switch to Dark Mode'}
+        >
+          {/* Sun icon */}
+          <Sun className={`w-3.5 h-3.5 transition-colors ${isDark ? 'text-slate-600' : 'text-amber-400'}`} />
+          {/* Moon icon */}
+          <Moon className={`w-3.5 h-3.5 transition-colors ${isDark ? 'text-cyan-400' : 'text-slate-400'}`} />
+          {/* Sliding pill */}
+          <span
+            className={`absolute top-0.5 w-6 h-6 rounded-full shadow transition-all duration-300 ease-in-out ${
+              isDark
+                ? 'translate-x-7 bg-slate-700'
+                : 'translate-x-0 bg-amber-400'
+            }`}
+          />
         </button>
       </div>
     </header>
